@@ -1,0 +1,649 @@
+﻿code,description,sex,diagnosis_count
+A00-A09,Intestinal infectious diseases,Male,87268
+A15-A19,Tuberculosis,Male,3924
+A20-A28,Certain zoonotic bacterial diseases,Male,198
+A30-A49,Other bacterial diseases,Male,144404
+A50-A64,Infections with a predominantly sexual mode of transmission,Male,1388
+A65-A69,Other spirochaetal diseases,Male,344
+A70-A74,Other diseases caused by chlamydiae,Male,18
+A75-A79,Rickettsioses,Male,34
+A80-A89,Viral infections of the central nervous system,Male,2738
+A92-A99,Arthropod-borne viral fevers & viral haemorrhagic fevers,Male,267
+B00-B09,Viral infections characterized by skin & mucous mem. lesns.,Male,10019
+B15-B19,Viral hepatitis,Male,2289
+B20-B24,Human immunodeficiency virus [HIV] disease,Male,2044
+B25-B34,Other viral diseases,Male,53503
+B35-B49,Mycoses,Male,5369
+B50-B64,Protozoal diseases,Male,2737
+B65-B83,Helminthiases,Male,394
+B85-B89,"Pediculosis, acariasis and other infestations",Male,372
+B95-B98,"Bacterial, viral and other infectious agents",Male,6
+B99-B99,Other infectious and parasitic diseases,Male,10651
+C00-C14,Malignant neoplasm of lip-oral cavity and pharynx,Male,21732
+C15-C26,Malignant neoplasm of digestive organs,Male,213703
+C30-C39,Malignant neoplasms of respiratory & intrathoracic organs,Male,67909
+C40-C41,Malignant neoplasm of bone and articular cartilage,Male,4719
+C43-C44,Malignant neoplasms of skin,Male,104761
+C45-C49,Malignant neoplasms of mesothelial and soft tissue,Male,15137
+C50-C50,Malignant neoplasm of breast,Male,1634
+C51-C58,Malignant neoplasms of female genital organs,Male,14
+C60-C63,Malignant neoplasms of male genital organs,Male,102016
+C64-C68,Malignant neoplasms of urinary tract,Male,78315
+C69-C72,"Malignant neoplasms of eye, brain & other parts of CNS",Male,16066
+C73-C75,Malignant neoplasms of thyroid and other endocrine glands,Male,5180
+C76-C80,"Malignant neoplasms of ill-defined, secondary and unspecified sites",Male,82091
+C81-C96,"Malignant neoplasms of lymphoid, haematopoietic & rel. tiss.",Male,265736
+C97-C97,Malignant neoplasms of independent (primary) multiple sites,Male,15088
+D00-D09,In situ neoplasms,Male,13616
+D10-D36,Benign neoplasms,Male,168644
+D37-D48,Neoplasms of uncertain or unknown behaviour,Male,70827
+D50-D53,Nutritional anaemias,Male,80487
+D55-D59,Haemolytic anaemias,Male,31112
+D60-D64,Aplastic and other anaemias,Male,58306
+D65-D69,"Coagulation defects, purpura and other haemorrhagic conditions",Male,18393
+D70-D77,Other diseases of blood and blood-forming organs,Male,18902
+D80-D89,Certain disorders involving the immune mechanism,Male,14862
+E00-E07,Disorders of thyroid gland,Male,4924
+E10-E14,Diabetes Mellitus,Male,67025
+E15-E16,Other disorders of glucose regulation and pancreatic internal secretion,Male,11499
+E20-E35,Disorders of other endocrine glands,Male,17291
+E40-E46,Malnutrition,Male,1016
+E50-E64,Other nutritional deficiencies,Male,6388
+E65-E68,Obesity and other hyperalimentation,Male,2698
+E70-E90,Metabolic disorders,Male,139969
+F00-F09,"Organic, including symptomatic, mental disorders",Male,40143
+F10-F19,Mental and behavioural disorders due to psychoactive subst.,Male,53645
+F20-F29,"Schizophrenia, schizotypal and delusional disorders",Male,13429
+F30-F39,Mood [affective] disorders,Male,7778
+F40-F48,"Neurotic, stress-related and somatoform disorders",Male,9035
+F50-F59,Behavioural syndromes associated with physiological disturbances and physical factors,Male,1175
+F60-F69,Disorders of adult personality and behaviour,Male,2440
+F70-F79,Mental retardation,Male,255
+F80-F89,Disorders of psychological development,Male,1773
+F90-F98,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence,Male,656
+F99-F99,Unspecified mental disorder,Male,174
+G00-G09,Inflammatory diseases of the central nervous system,Male,7834
+G10-G14,Systemic atrophies primarily affecting the central nervous system,Male,4434
+G20-G26,Extrapyramidal & movement disorders (incl. Parkinsonism).,Male,12252
+G30-G32,Other degenerative diseases (incl. Alzheimer).,Male,6932
+G35-G37,Demyelinating diseases (incl Multiple Sclerosis) of the CNS.,Male,19352
+G40-G47,Episodic and paroxysmal disorders,Male,74725
+G50-G59,"Nerve, nerve root and plexus disorders",Male,31304
+G60-G64,Polyneuropathies and other disorders of the peripheral nervous system,Male,24693
+G70-G73,Diseases of myoneural junction and muscle,Male,6159
+G80-G83,Cerebral palsy & other paralytic syndromes,Male,8411
+G90-G99,Other diseases & disorders of the nervous syst.,Male,16617
+H00-H06,"Disorders of eyelid, lacrimal system and orbit",Male,24934
+H10-H13,Disorders of conjunctiva (including conjunctivitis),Male,3352
+H15-H22,"Disorders of sclera, cornea, iris and ciliary body",Male,8957
+H25-H28,Disorders of lens (including cataracts),Male,308994
+H30-H36,Disorders of choroid and retina,Male,73038
+H40-H42,Glaucoma,Male,13816
+H43-H45,Disorders of vitreous body and globe,Male,4294
+H46-H48,Disorders of optic nerve and visual pathways,Male,1579
+H49-H52,"Disorders of ocular muscles, binocular movement, accommodation and refraction",Male,6926
+H53-H54,Visual disturbances and blindness,Male,4208
+H55-H59,Other disorders of eye and adnexa,Male,3358
+H60-H62,Diseases of external ear,Male,7656
+H65-H75,Diseases of middle ear and mastoid,Male,18812
+H80-H83,Diseases of inner ear,Male,7166
+H90-H95,Other disorders of ear,Male,4897
+I00-I02,Acute rheumatic fever,Male,52
+I05-I09,Chronic rheumatic heart diseases,Male,10706
+I10-I15,Hypertensive diseases,Male,26523
+I20-I25,Ischaemic heart diseases,Male,244381
+I26-I28,Pulmonary heart disease & diseases of pulmonary circulation,Male,36912
+I30-I52,Other forms of heart disease,Male,328884
+I60-I69,Cerebrovascular diseases,Male,125961
+I70-I79,"Diseases of arteries, arterioles & capillaries",Male,51139
+I80-I89,Diseases of veins & lymphatic system nec.,Male,90562
+I95-I99,Other & unspecified disorders of the circulatory system,Male,5728
+J00-J06,Acute upper respiratory infections,Male,68079
+J09-J18,Influenza & pneumonia,Male,310456
+J20-J22,Other acute lower respiratory infections,Male,122441
+J30-J39,Other diseases of upper respiratory tract,Male,56132
+J40-J47,Chronic lower respiratory diseases,Male,156936
+J60-J70,Lung diseases due to external agents,Male,47862
+J80-J84,Other respiratory diseases principally affecting the interstitium,Male,15849
+J85-J86,Suppurative and necrotic conditions of lower respiratory tract,Male,8321
+J90-J94,Other diseases of pleura,Male,38392
+J95-J99,Other diseases of the respiratory system,Male,23703
+K00-K14,"Diseases of oral cavity, salivary glands & jaws",Male,91290
+K20-K31,"Diseases of oesophagus, stomach & duodenum",Male,244242
+K35-K38,Diseases of appendix,Male,33349
+K40-K46,Hernia,Male,133514
+K50-K52,Noninfective enteritis & colitis,Male,194694
+K55-K64,Other diseases of intestines,Male,351026
+K65-K67,Diseases of peritoneum,Male,6686
+K70-K77,Diseases of liver,Male,67059
+K80-K87,"Disorders of gall bladder, biliary tract & pancreas",Male,133584
+K90-K93,Other diseases of the digestive system,Male,84471
+L00-L08,Infections of the skin and subcutaneous tissue,Male,137897
+L10-L14,Bullous disorders,Male,1772
+L20-L30,Dermatitis and eczema,Male,9320
+L40-L45,Papulosquamous disorders (including Psoriasis),Male,4656
+L50-L54,Urticaria and erythems,Male,4662
+L55-L59,Radiation-related disorders of the skin and subcutaneous tissue,Male,9159
+L60-L75,Disorders of skin appendages,Male,27421
+L80-L99,Other disorders of the skin and subcutaneous tissue,Male,60635
+M00-M25,Arthropathies,Male,227662
+M30-M36,Systemic connective tissue disorders,Male,11071
+M40-M54,Dorsopathies,Male,123375
+M60-M79,Soft tissue disorders,Male,113403
+M80-M94,Osteopathies and chondropathies,Male,45729
+M95-M99,Other disorders of the musculoskeletal system & conn. tiss.,Male,6131
+N00-N08,Glomerular diseases,Male,8262
+N10-N16,Renal tubulo-interstitial diseases,Male,56040
+N17-N19,Renal failure,Male,100397
+N20-N23,Urolithiasis,Male,55626
+N25-N29,Other disorders of kidney & ureter,Male,4649
+N30-N39,Other diseases of the urinary system,Male,152196
+N40-N51,Diseases of male genital organs,Male,137796
+N60-N64,Disorders of breast,Male,796
+N70-N77,Inflammatory diseases of female pelvic organs,Male,18
+N80-N98,Noninflammatory disorders of female genital tract,Male,95
+N99,Other disorders of the genitourinary system,Male,2160
+O00-O08,Pregnancy with abortive outcome,Male,9
+O10-O16,"Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium",Male,3
+O20-O29,Other maternal disorders predominantly related to pregnancy,Male,25
+O30-O48,Maternal care related to the fetus and amniotic cavity and possible delivery problems,Male,25
+O60-O75,Complications of labour and delivery,Male,1
+O80-O84,Delivery,Male,0
+O85-O92,Complications predominantly related to the puerperium,Male,3
+O94-O99,"Other obstetric conditions, not elsewhere classified",Male,11
+P00-P04,"Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery",Male,87
+P05-P08,Disorders related to length of gestation and fetal growth,Male,32933
+P10-P15,Birth trauma,Male,4672
+P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period,Male,42915
+P35-P39,Infections specific to the perinatal period,Male,10390
+P50-P61,Haemorrhagic and haematological disorders of fetus and newborn,Male,31926
+P70-P74,Transitory endocrine and metabolic disorders specific to fetus and newborn,Male,4911
+P75-P78,Digestive system disorders of fetus and newborn,Male,2590
+P80-P83,Conditions involving the integument and temperature regulation of fetus and newborn,Male,6783
+P90-P96,Other disorders originating in the perinatal period,Male,12175
+Q00-Q07,Congenital malformations of the nervous system,Male,2147
+Q10-Q18,"Congenital malformations of eye, ear, face and neck",Male,4665
+Q20-Q28,Congenital malformations of the circulatory system,Male,13242
+Q30-Q34,Congenital malformations of the respiratory system,Male,1865
+Q35-Q37,Cleft lip and cleft palate,Male,1466
+Q38-Q45,Other congenital malformations of the digestive system,Male,7927
+Q50-Q56,Congenital malformations of genital organs,Male,13272
+Q60-Q64,Congenital malformations of the urinary system,Male,3473
+Q65-Q79,Congenital malformations and deformations of the musculoskeletal system,Male,8222
+Q80-Q89,Other congenital malformations,Male,3875
+Q90-Q99,"Chromosomal abnormalities, not elsewhere classified",Male,894
+R00-R09,Symptoms & signs inv. the circulatory/respiratory system,Male,230129
+R10-R19,Symptoms & signs inv. the digestive system & abdomen,Male,197018
+R20-R23,Symptoms & signs inv. the skin & subcutaneous tissue,Male,20316
+R25-R29,Symptoms & signs inv. the nervous & musculoskeletal sys.,Male,85475
+R30-R39,Symptoms & signs involving the urinary system,Male,75347
+R40-R46,Symptoms & signs inv. Cognition perception etc.,Male,43846
+R47-R49,Symptoms & signs inv. speech & voice,Male,4645
+R50-R69,General symptoms & signs,Male,318562
+R70-R79,"Abnormal findings on examination of blood, without diagnosis",Male,24007
+R80-R82,"Abnormal findings on examination of urine, without diagnosis",Male,743
+R83-R89,"Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis",Male,707
+R90-R94,Abnormal findings on diagnostic imaging/function studies,Male,28206
+R95-R99,Ill-defined & unknown causes of mortality,Male,3
+S00-S09,Injuries to the head,Male,101598
+S10-S19,Injuries to the neck,Male,7997
+S20-S29,Injuries to the thorax,Male,30474
+S30-S39,"Injuries to abdomen, lower back, lumbar spine & pelvis",Male,27420
+S40-S49,Injuries to the shoulder & upper arm,Male,27739
+S50-S59,Injuries to the elbow & forearm,Male,29079
+S60-S69,Injuries to the wrist & hand,Male,58201
+S70-S79,Injuries to the hip & thigh,Male,48884
+S80-S89,Injuries to the knee & lower leg,Male,44904
+S90-S99,Injuries to the ankle & foot,Male,9495
+T00-T07,Injuries involving multiple body regions,Male,2370
+T08-T14,Injuries to unspecified part of trunk limb or body,Male,614
+T15-T19,Effects of foreign body entering through natural orifice,Male,11314
+T20-T32,Burns and corrosions,Male,7168
+T33-T35,Frostbite,Male,45
+T36-T50,Poisonings by drugs medicaments & biological substances,Male,38044
+T51-T65,Tox. effcts. of substnces. chiefly non-medicinal as to source,Male,3601
+T66-T78,Other and unspecified effects of external causes,Male,10502
+T79-T79,Certain early complications of trauma,Male,4463
+T80-T88,Complications of surgical & medical care nec.,Male,164045
+T90-T98,Sequelae of injuries of poisoning & other consequences,Male,2
+U00-U49,Provisional assignment of new diseases of uncertain etiology,Male,52819
+U82-U85,Resistance to antimicrobial and antineoplastic drugs,Male,0
+Z00-Z13,Examination and investigation,Male,128717
+Z20-Z29,Potential health hazards related to communicable diseases,Male,8254
+Z30-Z39,Health services in circumstances related to reproduction,Male,184215
+Z40-Z54,Persons encountering health services for specific care,Male,59131
+Z55-Z65,Potential health hazards reltd. to socioeconomic & psychosoc.l,Male,529
+Z70-Z76,Persons encountering health services in other circs.,Male,9135
+Z80-Z99,Persons with potential health hazards related to family,Male,6151
+A00-A09,Intestinal infectious diseases,Female,114810
+A15-A19,Tuberculosis,Female,2186
+A20-A28,Certain zoonotic bacterial diseases,Female,163
+A30-A49,Other bacterial diseases,Female,121099
+A50-A64,Infections with a predominantly sexual mode of transmission,Female,1416
+A65-A69,Other spirochaetal diseases,Female,290
+A70-A74,Other diseases caused by chlamydiae,Female,50
+A75-A79,Rickettsioses,Female,27
+A80-A89,Viral infections of the central nervous system,Female,3188
+A92-A99,Arthropod-borne viral fevers & viral haemorrhagic fevers,Female,271
+B00-B09,Viral infections characterized by skin & mucous mem. lesns.,Female,10229
+B15-B19,Viral hepatitis,Female,2009
+B20-B24,Human immunodeficiency virus [HIV] disease,Female,951
+B25-B34,Other viral diseases,Female,42668
+B35-B49,Mycoses,Female,5838
+B50-B64,Protozoal diseases,Female,1735
+B65-B83,Helminthiases,Female,376
+B85-B89,"Pediculosis, acariasis and other infestations",Female,306
+B95-B98,"Bacterial, viral and other infectious agents",Female,19
+B99-B99,Other infectious and parasitic diseases,Female,10912
+C00-C14,Malignant neoplasm of lip-oral cavity and pharynx,Female,9081
+C15-C26,Malignant neoplasm of digestive organs,Female,139705
+C30-C39,Malignant neoplasms of respiratory & intrathoracic organs,Female,65378
+C40-C41,Malignant neoplasm of bone and articular cartilage,Female,3260
+C43-C44,Malignant neoplasms of skin,Female,71896
+C45-C49,Malignant neoplasms of mesothelial and soft tissue,Female,11436
+C50-C50,Malignant neoplasm of breast,Female,262348
+C51-C58,Malignant neoplasms of female genital organs,Female,81377
+C60-C63,Malignant neoplasms of male genital organs,Female,19
+C64-C68,Malignant neoplasms of urinary tract,Female,28998
+C69-C72,"Malignant neoplasms of eye, brain & other parts of CNS",Female,12232
+C73-C75,Malignant neoplasms of thyroid and other endocrine glands,Female,7800
+C76-C80,"Malignant neoplasms of ill-defined, secondary and unspecified sites",Female,134672
+C81-C96,"Malignant neoplasms of lymphoid, haematopoietic & rel. tiss.",Female,185275
+C97-C97,Malignant neoplasms of independent (primary) multiple sites,Female,17786
+D00-D09,In situ neoplasms,Female,22554
+D10-D36,Benign neoplasms,Female,189589
+D37-D48,Neoplasms of uncertain or unknown behaviour,Female,45644
+D50-D53,Nutritional anaemias,Female,137205
+D55-D59,Haemolytic anaemias,Female,31979
+D60-D64,Aplastic and other anaemias,Female,63212
+D65-D69,"Coagulation defects, purpura and other haemorrhagic conditions",Female,16085
+D70-D77,Other diseases of blood and blood-forming organs,Female,10483
+D80-D89,Certain disorders involving the immune mechanism,Female,13876
+E00-E07,Disorders of thyroid gland,Female,16141
+E10-E14,Diabetes Mellitus,Female,45260
+E15-E16,Other disorders of glucose regulation and pancreatic internal secretion,Female,11918
+E20-E35,Disorders of other endocrine glands,Female,22248
+E40-E46,Malnutrition,Female,1726
+E50-E64,Other nutritional deficiencies,Female,9686
+E65-E68,Obesity and other hyperalimentation,Female,8543
+E70-E90,Metabolic disorders,Female,134256
+F00-F09,"Organic, including symptomatic, mental disorders",Female,50156
+F10-F19,Mental and behavioural disorders due to psychoactive subst.,Female,23312
+F20-F29,"Schizophrenia, schizotypal and delusional disorders",Female,9781
+F30-F39,Mood [affective] disorders,Female,9908
+F40-F48,"Neurotic, stress-related and somatoform disorders",Female,16504
+F50-F59,Behavioural syndromes associated with physiological disturbances and physical factors,Female,7245
+F60-F69,Disorders of adult personality and behaviour,Female,4583
+F70-F79,Mental retardation,Female,167
+F80-F89,Disorders of psychological development,Female,1183
+F90-F98,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence,Female,710
+F99-F99,Unspecified mental disorder,Female,213
+G00-G09,Inflammatory diseases of the central nervous system,Female,7408
+G10-G14,Systemic atrophies primarily affecting the central nervous system,Female,3699
+G20-G26,Extrapyramidal & movement disorders (incl. Parkinsonism).,Female,9712
+G30-G32,Other degenerative diseases (incl. Alzheimer).,Female,7390
+G35-G37,Demyelinating diseases (incl Multiple Sclerosis) of the CNS.,Female,50054
+G40-G47,Episodic and paroxysmal disorders,Female,92515
+G50-G59,"Nerve, nerve root and plexus disorders",Female,46226
+G60-G64,Polyneuropathies and other disorders of the peripheral nervous system,Female,15237
+G70-G73,Diseases of myoneural junction and muscle,Female,5235
+G80-G83,Cerebral palsy & other paralytic syndromes,Female,7152
+G90-G99,Other diseases & disorders of the nervous syst.,Female,20843
+H00-H06,"Disorders of eyelid, lacrimal system and orbit",Female,27167
+H10-H13,Disorders of conjunctiva (including conjunctivitis),Female,3067
+H15-H22,"Disorders of sclera, cornea, iris and ciliary body",Female,7980
+H25-H28,Disorders of lens (including cataracts),Female,437026
+H30-H36,Disorders of choroid and retina,Female,76066
+H40-H42,Glaucoma,Female,12771
+H43-H45,Disorders of vitreous body and globe,Female,3862
+H46-H48,Disorders of optic nerve and visual pathways,Female,3428
+H49-H52,"Disorders of ocular muscles, binocular movement, accommodation and refraction",Female,7722
+H53-H54,Visual disturbances and blindness,Female,5410
+H55-H59,Other disorders of eye and adnexa,Female,3448
+H60-H62,Diseases of external ear,Female,8499
+H65-H75,Diseases of middle ear and mastoid,Female,17636
+H80-H83,Diseases of inner ear,Female,11752
+H90-H95,Other disorders of ear,Female,5373
+I00-I02,Acute rheumatic fever,Female,73
+I05-I09,Chronic rheumatic heart diseases,Female,9458
+I10-I15,Hypertensive diseases,Female,33181
+I20-I25,Ischaemic heart diseases,Female,116478
+I26-I28,Pulmonary heart disease & diseases of pulmonary circulation,Female,42766
+I30-I52,Other forms of heart disease,Female,253225
+I60-I69,Cerebrovascular diseases,Female,113987
+I70-I79,"Diseases of arteries, arterioles & capillaries",Female,30948
+I80-I89,Diseases of veins & lymphatic system nec.,Female,82462
+I95-I99,Other & unspecified disorders of the circulatory system,Female,3193
+J00-J06,Acute upper respiratory infections,Female,74013
+J09-J18,Influenza & pneumonia,Female,313724
+J20-J22,Other acute lower respiratory infections,Female,124513
+J30-J39,Other diseases of upper respiratory tract,Female,46836
+J40-J47,Chronic lower respiratory diseases,Female,218102
+J60-J70,Lung diseases due to external agents,Female,34562
+J80-J84,Other respiratory diseases principally affecting the interstitium,Female,16729
+J85-J86,Suppurative and necrotic conditions of lower respiratory tract,Female,4252
+J90-J94,Other diseases of pleura,Female,22985
+J95-J99,Other diseases of the respiratory system,Female,26808
+K00-K14,"Diseases of oral cavity, salivary glands & jaws",Female,110919
+K20-K31,"Diseases of oesophagus, stomach & duodenum",Female,254757
+K35-K38,Diseases of appendix,Female,29928
+K40-K46,Hernia,Female,81517
+K50-K52,Noninfective enteritis & colitis,Female,193229
+K55-K64,Other diseases of intestines,Female,380042
+K65-K67,Diseases of peritoneum,Female,7531
+K70-K77,Diseases of liver,Female,45953
+K80-K87,"Disorders of gall bladder, biliary tract & pancreas",Female,193132
+K90-K93,Other diseases of the digestive system,Female,81895
+L00-L08,Infections of the skin and subcutaneous tissue,Female,116994
+L10-L14,Bullous disorders,Female,1824
+L20-L30,Dermatitis and eczema,Female,9624
+L40-L45,Papulosquamous disorders (including Psoriasis),Female,4989
+L50-L54,Urticaria and erythems,Female,7463
+L55-L59,Radiation-related disorders of the skin and subcutaneous tissue,Female,7425
+L60-L75,Disorders of skin appendages,Female,25480
+L80-L99,Other disorders of the skin and subcutaneous tissue,Female,60365
+M00-M25,Arthropathies,Female,333696
+M30-M36,Systemic connective tissue disorders,Female,25425
+M40-M54,Dorsopathies,Female,182471
+M60-M79,Soft tissue disorders,Female,137872
+M80-M94,Osteopathies and chondropathies,Female,81413
+M95-M99,Other disorders of the musculoskeletal system & conn. tiss.,Female,10280
+N00-N08,Glomerular diseases,Female,5528
+N10-N16,Renal tubulo-interstitial diseases,Female,70545
+N17-N19,Renal failure,Female,77013
+N20-N23,Urolithiasis,Female,33518
+N25-N29,Other disorders of kidney & ureter,Female,3741
+N30-N39,Other diseases of the urinary system,Female,186165
+N40-N51,Diseases of male genital organs,Female,90
+N60-N64,Disorders of breast,Female,17929
+N70-N77,Inflammatory diseases of female pelvic organs,Female,27090
+N80-N98,Noninflammatory disorders of female genital tract,Female,200246
+N99,Other disorders of the genitourinary system,Female,2127
+O00-O08,Pregnancy with abortive outcome,Female,103494
+O10-O16,"Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium",Female,49817
+O20-O29,Other maternal disorders predominantly related to pregnancy,Female,263638
+O30-O48,Maternal care related to the fetus and amniotic cavity and possible delivery problems,Female,478344
+O60-O75,Complications of labour and delivery,Female,306666
+O80-O84,Delivery,Female,18650
+O85-O92,Complications predominantly related to the puerperium,Female,35699
+O94-O99,"Other obstetric conditions, not elsewhere classified",Female,60213
+P00-P04,"Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery",Female,73
+P05-P08,Disorders related to length of gestation and fetal growth,Female,30142
+P10-P15,Birth trauma,Female,4084
+P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period,Female,32631
+P35-P39,Infections specific to the perinatal period,Female,8204
+P50-P61,Haemorrhagic and haematological disorders of fetus and newborn,Female,26632
+P70-P74,Transitory endocrine and metabolic disorders specific to fetus and newborn,Female,3893
+P75-P78,Digestive system disorders of fetus and newborn,Female,2119
+P80-P83,Conditions involving the integument and temperature regulation of fetus and newborn,Female,5601
+P90-P96,Other disorders originating in the perinatal period,Female,11336
+Q00-Q07,Congenital malformations of the nervous system,Female,2513
+Q10-Q18,"Congenital malformations of eye, ear, face and neck",Female,5715
+Q20-Q28,Congenital malformations of the circulatory system,Female,11870
+Q30-Q34,Congenital malformations of the respiratory system,Female,1611
+Q35-Q37,Cleft lip and cleft palate,Female,1204
+Q38-Q45,Other congenital malformations of the digestive system,Female,5523
+Q50-Q56,Congenital malformations of genital organs,Female,1563
+Q60-Q64,Congenital malformations of the urinary system,Female,1699
+Q65-Q79,Congenital malformations and deformations of the musculoskeletal system,Female,8658
+Q80-Q89,Other congenital malformations,Female,4572
+Q90-Q99,"Chromosomal abnormalities, not elsewhere classified",Female,622
+R00-R09,Symptoms & signs inv. the circulatory/respiratory system,Female,257499
+R10-R19,Symptoms & signs inv. the digestive system & abdomen,Female,368544
+R20-R23,Symptoms & signs inv. the skin & subcutaneous tissue,Female,24029
+R25-R29,Symptoms & signs inv. the nervous & musculoskeletal sys.,Female,102828
+R30-R39,Symptoms & signs involving the urinary system,Female,31181
+R40-R46,Symptoms & signs inv. Cognition perception etc.,Female,52316
+R47-R49,Symptoms & signs inv. speech & voice,Female,5251
+R50-R69,General symptoms & signs,Female,373440
+R70-R79,"Abnormal findings on examination of blood, without diagnosis",Female,15691
+R80-R82,"Abnormal findings on examination of urine, without diagnosis",Female,734
+R83-R89,"Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis",Female,2350
+R90-R94,Abnormal findings on diagnostic imaging/function studies,Female,31251
+R95-R99,Ill-defined & unknown causes of mortality,Female,4
+S00-S09,Injuries to the head,Female,79698
+S10-S19,Injuries to the neck,Female,6818
+S20-S29,Injuries to the thorax,Female,26244
+S30-S39,"Injuries to abdomen, lower back, lumbar spine & pelvis",Female,41342
+S40-S49,Injuries to the shoulder & upper arm,Female,32083
+S50-S59,Injuries to the elbow & forearm,Female,38088
+S60-S69,Injuries to the wrist & hand,Female,26176
+S70-S79,Injuries to the hip & thigh,Female,90166
+S80-S89,Injuries to the knee & lower leg,Female,54212
+S90-S99,Injuries to the ankle & foot,Female,9497
+T00-T07,Injuries involving multiple body regions,Female,2863
+T08-T14,Injuries to unspecified part of trunk limb or body,Female,799
+T15-T19,Effects of foreign body entering through natural orifice,Female,11897
+T20-T32,Burns and corrosions,Female,5316
+T33-T35,Frostbite,Female,19
+T36-T50,Poisonings by drugs medicaments & biological substances,Female,61200
+T51-T65,Tox. effcts. of substnces. chiefly non-medicinal as to source,Female,3282
+T66-T78,Other and unspecified effects of external causes,Female,11385
+T79-T79,Certain early complications of trauma,Female,3358
+T80-T88,Complications of surgical & medical care nec.,Female,137931
+T90-T98,Sequelae of injuries of poisoning & other consequences,Female,3
+U00-U49,Provisional assignment of new diseases of uncertain etiology,Female,52379
+U82-U85,Resistance to antimicrobial and antineoplastic drugs,Female,1
+Z00-Z13,Examination and investigation,Female,115315
+Z20-Z29,Potential health hazards related to communicable diseases,Female,13239
+Z30-Z39,Health services in circumstances related to reproduction,Female,316606
+Z40-Z54,Persons encountering health services for specific care,Female,51752
+Z55-Z65,Potential health hazards reltd. to socioeconomic & psychosoc.l,Female,737
+Z70-Z76,Persons encountering health services in other circs.,Female,12038
+Z80-Z99,Persons with potential health hazards related to family,Female,4115
+A00-A09,Intestinal infectious diseases,Unknown,1074
+A15-A19,Tuberculosis,Unknown,24
+A20-A28,Certain zoonotic bacterial diseases,Unknown,0
+A30-A49,Other bacterial diseases,Unknown,841
+A50-A64,Infections with a predominantly sexual mode of transmission,Unknown,19
+A65-A69,Other spirochaetal diseases,Unknown,6
+A70-A74,Other diseases caused by chlamydiae,Unknown,2
+A75-A79,Rickettsioses,Unknown,0
+A80-A89,Viral infections of the central nervous system,Unknown,28
+A92-A99,Arthropod-borne viral fevers & viral haemorrhagic fevers,Unknown,2
+B00-B09,Viral infections characterized by skin & mucous mem. lesns.,Unknown,131
+B15-B19,Viral hepatitis,Unknown,29
+B20-B24,Human immunodeficiency virus [HIV] disease,Unknown,5
+B25-B34,Other viral diseases,Unknown,492
+B35-B49,Mycoses,Unknown,128
+B50-B64,Protozoal diseases,Unknown,38
+B65-B83,Helminthiases,Unknown,2
+B85-B89,"Pediculosis, acariasis and other infestations",Unknown,4
+B95-B98,"Bacterial, viral and other infectious agents",Unknown,0
+B99-B99,Other infectious and parasitic diseases,Unknown,42
+C00-C14,Malignant neoplasm of lip-oral cavity and pharynx,Unknown,214
+C15-C26,Malignant neoplasm of digestive organs,Unknown,2182
+C30-C39,Malignant neoplasms of respiratory & intrathoracic organs,Unknown,1229
+C40-C41,Malignant neoplasm of bone and articular cartilage,Unknown,24
+C43-C44,Malignant neoplasms of skin,Unknown,1648
+C45-C49,Malignant neoplasms of mesothelial and soft tissue,Unknown,116
+C50-C50,Malignant neoplasm of breast,Unknown,1589
+C51-C58,Malignant neoplasms of female genital organs,Unknown,422
+C60-C63,Malignant neoplasms of male genital organs,Unknown,552
+C64-C68,Malignant neoplasms of urinary tract,Unknown,817
+C69-C72,"Malignant neoplasms of eye, brain & other parts of CNS",Unknown,59
+C73-C75,Malignant neoplasms of thyroid and other endocrine glands,Unknown,141
+C76-C80,"Malignant neoplasms of ill-defined, secondary and unspecified sites",Unknown,1374
+C81-C96,"Malignant neoplasms of lymphoid, haematopoietic & rel. tiss.",Unknown,2420
+C97-C97,Malignant neoplasms of independent (primary) multiple sites,Unknown,245
+D00-D09,In situ neoplasms,Unknown,310
+D10-D36,Benign neoplasms,Unknown,2680
+D37-D48,Neoplasms of uncertain or unknown behaviour,Unknown,988
+D50-D53,Nutritional anaemias,Unknown,1658
+D55-D59,Haemolytic anaemias,Unknown,405
+D60-D64,Aplastic and other anaemias,Unknown,503
+D65-D69,"Coagulation defects, purpura and other haemorrhagic conditions",Unknown,440
+D70-D77,Other diseases of blood and blood-forming organs,Unknown,212
+D80-D89,Certain disorders involving the immune mechanism,Unknown,330
+E00-E07,Disorders of thyroid gland,Unknown,141
+E10-E14,Diabetes Mellitus,Unknown,715
+E15-E16,Other disorders of glucose regulation and pancreatic internal secretion,Unknown,123
+E20-E35,Disorders of other endocrine glands,Unknown,337
+E40-E46,Malnutrition,Unknown,22
+E50-E64,Other nutritional deficiencies,Unknown,128
+E65-E68,Obesity and other hyperalimentation,Unknown,66
+E70-E90,Metabolic disorders,Unknown,2295
+F00-F09,"Organic, including symptomatic, mental disorders",Unknown,503
+F10-F19,Mental and behavioural disorders due to psychoactive subst.,Unknown,535
+F20-F29,"Schizophrenia, schizotypal and delusional disorders",Unknown,167
+F30-F39,Mood [affective] disorders,Unknown,85
+F40-F48,"Neurotic, stress-related and somatoform disorders",Unknown,130
+F50-F59,Behavioural syndromes associated with physiological disturbances and physical factors,Unknown,89
+F60-F69,Disorders of adult personality and behaviour,Unknown,331
+F70-F79,Mental retardation,Unknown,1
+F80-F89,Disorders of psychological development,Unknown,46
+F90-F98,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence,Unknown,24
+F99-F99,Unspecified mental disorder,Unknown,3
+G00-G09,Inflammatory diseases of the central nervous system,Unknown,100
+G10-G14,Systemic atrophies primarily affecting the central nervous system,Unknown,121
+G20-G26,Extrapyramidal & movement disorders (incl. Parkinsonism).,Unknown,250
+G30-G32,Other degenerative diseases (incl. Alzheimer).,Unknown,108
+G35-G37,Demyelinating diseases (incl Multiple Sclerosis) of the CNS.,Unknown,514
+G40-G47,Episodic and paroxysmal disorders,Unknown,2466
+G50-G59,"Nerve, nerve root and plexus disorders",Unknown,352
+G60-G64,Polyneuropathies and other disorders of the peripheral nervous system,Unknown,237
+G70-G73,Diseases of myoneural junction and muscle,Unknown,102
+G80-G83,Cerebral palsy & other paralytic syndromes,Unknown,192
+G90-G99,Other diseases & disorders of the nervous syst.,Unknown,168
+H00-H06,"Disorders of eyelid, lacrimal system and orbit",Unknown,337
+H10-H13,Disorders of conjunctiva (including conjunctivitis),Unknown,44
+H15-H22,"Disorders of sclera, cornea, iris and ciliary body",Unknown,144
+H25-H28,Disorders of lens (including cataracts),Unknown,2364
+H30-H36,Disorders of choroid and retina,Unknown,835
+H40-H42,Glaucoma,Unknown,461
+H43-H45,Disorders of vitreous body and globe,Unknown,107
+H46-H48,Disorders of optic nerve and visual pathways,Unknown,16
+H49-H52,"Disorders of ocular muscles, binocular movement, accommodation and refraction",Unknown,141
+H53-H54,Visual disturbances and blindness,Unknown,42
+H55-H59,Other disorders of eye and adnexa,Unknown,28
+H60-H62,Diseases of external ear,Unknown,135
+H65-H75,Diseases of middle ear and mastoid,Unknown,234
+H80-H83,Diseases of inner ear,Unknown,136
+H90-H95,Other disorders of ear,Unknown,193
+I00-I02,Acute rheumatic fever,Unknown,0
+I05-I09,Chronic rheumatic heart diseases,Unknown,496
+I10-I15,Hypertensive diseases,Unknown,259
+I20-I25,Ischaemic heart diseases,Unknown,3484
+I26-I28,Pulmonary heart disease & diseases of pulmonary circulation,Unknown,594
+I30-I52,Other forms of heart disease,Unknown,5718
+I60-I69,Cerebrovascular diseases,Unknown,1006
+I70-I79,"Diseases of arteries, arterioles & capillaries",Unknown,903
+I80-I89,Diseases of veins & lymphatic system nec.,Unknown,1355
+I95-I99,Other & unspecified disorders of the circulatory system,Unknown,12
+J00-J06,Acute upper respiratory infections,Unknown,745
+J09-J18,Influenza & pneumonia,Unknown,3456
+J20-J22,Other acute lower respiratory infections,Unknown,1417
+J30-J39,Other diseases of upper respiratory tract,Unknown,1406
+J40-J47,Chronic lower respiratory diseases,Unknown,3495
+J60-J70,Lung diseases due to external agents,Unknown,343
+J80-J84,Other respiratory diseases principally affecting the interstitium,Unknown,732
+J85-J86,Suppurative and necrotic conditions of lower respiratory tract,Unknown,160
+J90-J94,Other diseases of pleura,Unknown,390
+J95-J99,Other diseases of the respiratory system,Unknown,590
+K00-K14,"Diseases of oral cavity, salivary glands & jaws",Unknown,4654
+K20-K31,"Diseases of oesophagus, stomach & duodenum",Unknown,4630
+K35-K38,Diseases of appendix,Unknown,340
+K40-K46,Hernia,Unknown,1434
+K50-K52,Noninfective enteritis & colitis,Unknown,4522
+K55-K64,Other diseases of intestines,Unknown,4343
+K65-K67,Diseases of peritoneum,Unknown,88
+K70-K77,Diseases of liver,Unknown,498
+K80-K87,"Disorders of gall bladder, biliary tract & pancreas",Unknown,1674
+K90-K93,Other diseases of the digestive system,Unknown,1006
+L00-L08,Infections of the skin and subcutaneous tissue,Unknown,1193
+L10-L14,Bullous disorders,Unknown,67
+L20-L30,Dermatitis and eczema,Unknown,162
+L40-L45,Papulosquamous disorders (including Psoriasis),Unknown,171
+L50-L54,Urticaria and erythems,Unknown,89
+L55-L59,Radiation-related disorders of the skin and subcutaneous tissue,Unknown,202
+L60-L75,Disorders of skin appendages,Unknown,285
+L80-L99,Other disorders of the skin and subcutaneous tissue,Unknown,1017
+M00-M25,Arthropathies,Unknown,2676
+M30-M36,Systemic connective tissue disorders,Unknown,359
+M40-M54,Dorsopathies,Unknown,1292
+M60-M79,Soft tissue disorders,Unknown,1143
+M80-M94,Osteopathies and chondropathies,Unknown,1093
+M95-M99,Other disorders of the musculoskeletal system & conn. tiss.,Unknown,118
+N00-N08,Glomerular diseases,Unknown,229
+N10-N16,Renal tubulo-interstitial diseases,Unknown,763
+N17-N19,Renal failure,Unknown,932
+N20-N23,Urolithiasis,Unknown,877
+N25-N29,Other disorders of kidney & ureter,Unknown,82
+N30-N39,Other diseases of the urinary system,Unknown,2005
+N40-N51,Diseases of male genital organs,Unknown,790
+N60-N64,Disorders of breast,Unknown,91
+N70-N77,Inflammatory diseases of female pelvic organs,Unknown,141
+N80-N98,Noninflammatory disorders of female genital tract,Unknown,1260
+N99,Other disorders of the genitourinary system,Unknown,17
+O00-O08,Pregnancy with abortive outcome,Unknown,457
+O10-O16,"Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium",Unknown,92
+O20-O29,Other maternal disorders predominantly related to pregnancy,Unknown,379
+O30-O48,Maternal care related to the fetus and amniotic cavity and possible delivery problems,Unknown,328
+O60-O75,Complications of labour and delivery,Unknown,51
+O80-O84,Delivery,Unknown,0
+O85-O92,Complications predominantly related to the puerperium,Unknown,65
+O94-O99,"Other obstetric conditions, not elsewhere classified",Unknown,89
+P00-P04,"Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery",Unknown,7
+P05-P08,Disorders related to length of gestation and fetal growth,Unknown,1010
+P10-P15,Birth trauma,Unknown,81
+P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period,Unknown,1017
+P35-P39,Infections specific to the perinatal period,Unknown,227
+P50-P61,Haemorrhagic and haematological disorders of fetus and newborn,Unknown,631
+P70-P74,Transitory endocrine and metabolic disorders specific to fetus and newborn,Unknown,116
+P75-P78,Digestive system disorders of fetus and newborn,Unknown,28
+P80-P83,Conditions involving the integument and temperature regulation of fetus and newborn,Unknown,160
+P90-P96,Other disorders originating in the perinatal period,Unknown,297
+Q00-Q07,Congenital malformations of the nervous system,Unknown,21
+Q10-Q18,"Congenital malformations of eye, ear, face and neck",Unknown,58
+Q20-Q28,Congenital malformations of the circulatory system,Unknown,1443
+Q30-Q34,Congenital malformations of the respiratory system,Unknown,45
+Q35-Q37,Cleft lip and cleft palate,Unknown,95
+Q38-Q45,Other congenital malformations of the digestive system,Unknown,243
+Q50-Q56,Congenital malformations of genital organs,Unknown,217
+Q60-Q64,Congenital malformations of the urinary system,Unknown,181
+Q65-Q79,Congenital malformations and deformations of the musculoskeletal system,Unknown,173
+Q80-Q89,Other congenital malformations,Unknown,148
+Q90-Q99,"Chromosomal abnormalities, not elsewhere classified",Unknown,24
+R00-R09,Symptoms & signs inv. the circulatory/respiratory system,Unknown,3301
+R10-R19,Symptoms & signs inv. the digestive system & abdomen,Unknown,3355
+R20-R23,Symptoms & signs inv. the skin & subcutaneous tissue,Unknown,280
+R25-R29,Symptoms & signs inv. the nervous & musculoskeletal sys.,Unknown,684
+R30-R39,Symptoms & signs involving the urinary system,Unknown,493
+R40-R46,Symptoms & signs inv. Cognition perception etc.,Unknown,540
+R47-R49,Symptoms & signs inv. speech & voice,Unknown,62
+R50-R69,General symptoms & signs,Unknown,9071
+R70-R79,"Abnormal findings on examination of blood, without diagnosis",Unknown,150
+R80-R82,"Abnormal findings on examination of urine, without diagnosis",Unknown,9
+R83-R89,"Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis",Unknown,21
+R90-R94,Abnormal findings on diagnostic imaging/function studies,Unknown,420
+R95-R99,Ill-defined & unknown causes of mortality,Unknown,0
+S00-S09,Injuries to the head,Unknown,1106
+S10-S19,Injuries to the neck,Unknown,83
+S20-S29,Injuries to the thorax,Unknown,371
+S30-S39,"Injuries to abdomen, lower back, lumbar spine & pelvis",Unknown,346
+S40-S49,Injuries to the shoulder & upper arm,Unknown,272
+S50-S59,Injuries to the elbow & forearm,Unknown,393
+S60-S69,Injuries to the wrist & hand,Unknown,629
+S70-S79,Injuries to the hip & thigh,Unknown,667
+S80-S89,Injuries to the knee & lower leg,Unknown,488
+S90-S99,Injuries to the ankle & foot,Unknown,95
+T00-T07,Injuries involving multiple body regions,Unknown,35
+T08-T14,Injuries to unspecified part of trunk limb or body,Unknown,5
+T15-T19,Effects of foreign body entering through natural orifice,Unknown,165
+T20-T32,Burns and corrosions,Unknown,10
+T33-T35,Frostbite,Unknown,0
+T36-T50,Poisonings by drugs medicaments & biological substances,Unknown,901
+T51-T65,Tox. effcts. of substnces. chiefly non-medicinal as to source,Unknown,35
+T66-T78,Other and unspecified effects of external causes,Unknown,111
+T79-T79,Certain early complications of trauma,Unknown,13
+T80-T88,Complications of surgical & medical care nec.,Unknown,2151
+T90-T98,Sequelae of injuries of poisoning & other consequences,Unknown,0
+U00-U49,Provisional assignment of new diseases of uncertain etiology,Unknown,559
+U82-U85,Resistance to antimicrobial and antineoplastic drugs,Unknown,0
+Z00-Z13,Examination and investigation,Unknown,2695
+Z20-Z29,Potential health hazards related to communicable diseases,Unknown,96
+Z30-Z39,Health services in circumstances related to reproduction,Unknown,8898
+Z40-Z54,Persons encountering health services for specific care,Unknown,891
+Z55-Z65,Potential health hazards reltd. to socioeconomic & psychosoc.l,Unknown,3
+Z70-Z76,Persons encountering health services in other circs.,Unknown,622
+Z80-Z99,Persons with potential health hazards related to family,Unknown,231

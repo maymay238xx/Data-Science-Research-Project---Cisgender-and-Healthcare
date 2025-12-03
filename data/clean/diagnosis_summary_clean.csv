@@ -1,0 +1,433 @@
+code,description,sex,diagnosis_count,category
+A00-A09,Intestinal infectious diseases,Male,87268,Certain infectious and parasitic diseases (A00–B99)
+A15-A19,Tuberculosis,Male,3924,Certain infectious and parasitic diseases (A00–B99)
+A20-A28,Certain zoonotic bacterial diseases,Male,198,Certain infectious and parasitic diseases (A00–B99)
+A30-A49,Other bacterial diseases,Male,144404,Certain infectious and parasitic diseases (A00–B99)
+A50-A64,Infections with a predominantly sexual mode of transmission,Male,1388,Certain infectious and parasitic diseases (A00–B99)
+A65-A69,Other spirochaetal diseases,Male,344,Certain infectious and parasitic diseases (A00–B99)
+A70-A74,Other diseases caused by chlamydiae,Male,18,Certain infectious and parasitic diseases (A00–B99)
+A75-A79,Rickettsioses,Male,34,Certain infectious and parasitic diseases (A00–B99)
+A80-A89,Viral infections of the central nervous system,Male,2738,Certain infectious and parasitic diseases (A00–B99)
+A92-A99,Arthropod-borne viral fevers & viral haemorrhagic fevers,Male,267,Certain infectious and parasitic diseases (A00–B99)
+B00-B09,Viral infections characterized by skin & mucous mem. lesns.,Male,10019,Certain infectious and parasitic diseases (A00–B99)
+B15-B19,Viral hepatitis,Male,2289,Certain infectious and parasitic diseases (A00–B99)
+B20-B24,Human immunodeficiency virus [HIV] disease,Male,2044,Certain infectious and parasitic diseases (A00–B99)
+B25-B34,Other viral diseases,Male,53503,Certain infectious and parasitic diseases (A00–B99)
+B35-B49,Mycoses,Male,5369,Certain infectious and parasitic diseases (A00–B99)
+B50-B64,Protozoal diseases,Male,2737,Certain infectious and parasitic diseases (A00–B99)
+B65-B83,Helminthiases,Male,394,Certain infectious and parasitic diseases (A00–B99)
+B85-B89,"Pediculosis, acariasis and other infestations",Male,372,Certain infectious and parasitic diseases (A00–B99)
+B95-B98,"Bacterial, viral and other infectious agents",Male,6,Certain infectious and parasitic diseases (A00–B99)
+B99-B99,Other infectious and parasitic diseases,Male,10651,Certain infectious and parasitic diseases (A00–B99)
+C00-C14,Malignant neoplasm of lip-oral cavity and pharynx,Male,21732,Neoplasms (C00–D48)
+C15-C26,Malignant neoplasm of digestive organs,Male,213703,Neoplasms (C00–D48)
+C30-C39,Malignant neoplasms of respiratory & intrathoracic organs,Male,67909,Neoplasms (C00–D48)
+C40-C41,Malignant neoplasm of bone and articular cartilage,Male,4719,Neoplasms (C00–D48)
+C43-C44,Malignant neoplasms of skin,Male,104761,Neoplasms (C00–D48)
+C45-C49,Malignant neoplasms of mesothelial and soft tissue,Male,15137,Neoplasms (C00–D48)
+C50-C50,Malignant neoplasm of breast,Male,1634,Neoplasms (C00–D48)
+C51-C58,Malignant neoplasms of female genital organs,Male,14,Neoplasms (C00–D48)
+C60-C63,Malignant neoplasms of male genital organs,Male,102016,Neoplasms (C00–D48)
+C64-C68,Malignant neoplasms of urinary tract,Male,78315,Neoplasms (C00–D48)
+C69-C72,"Malignant neoplasms of eye, brain & other parts of CNS",Male,16066,Neoplasms (C00–D48)
+C73-C75,Malignant neoplasms of thyroid and other endocrine glands,Male,5180,Neoplasms (C00–D48)
+C76-C80,"Malignant neoplasms of ill-defined, secondary and unspecified sites",Male,82091,Neoplasms (C00–D48)
+C81-C96,"Malignant neoplasms of lymphoid, haematopoietic & rel. tiss.",Male,265736,Neoplasms (C00–D48)
+C97-C97,Malignant neoplasms of independent (primary) multiple sites,Male,15088,Neoplasms (C00–D48)
+D00-D09,In situ neoplasms,Male,13616,Neoplasms (C00–D48)
+D10-D36,Benign neoplasms,Male,168644,Neoplasms (C00–D48)
+D37-D48,Neoplasms of uncertain or unknown behaviour,Male,70827,Neoplasms (C00–D48)
+D50-D53,Nutritional anaemias,Male,80487,Diseases of the blood and blood-forming organs (D50–D89)
+D55-D59,Haemolytic anaemias,Male,31112,Diseases of the blood and blood-forming organs (D50–D89)
+D60-D64,Aplastic and other anaemias,Male,58306,Diseases of the blood and blood-forming organs (D50–D89)
+D65-D69,"Coagulation defects, purpura and other haemorrhagic conditions",Male,18393,Diseases of the blood and blood-forming organs (D50–D89)
+D70-D77,Other diseases of blood and blood-forming organs,Male,18902,Diseases of the blood and blood-forming organs (D50–D89)
+D80-D89,Certain disorders involving the immune mechanism,Male,14862,Diseases of the blood and blood-forming organs (D50–D89)
+E00-E07,Disorders of thyroid gland,Male,4924,"Endocrine, nutritional and metabolic diseases (E00–E90)"
+E10-E14,Diabetes Mellitus,Male,67025,"Endocrine, nutritional and metabolic diseases (E00–E90)"
+E15-E16,Other disorders of glucose regulation and pancreatic internal secretion,Male,11499,"Endocrine, nutritional and metabolic diseases (E00–E90)"
+E20-E35,Disorders of other endocrine glands,Male,17291,"Endocrine, nutritional and metabolic diseases (E00–E90)"
+E40-E46,Malnutrition,Male,1016,"Endocrine, nutritional and metabolic diseases (E00–E90)"
+E50-E64,Other nutritional deficiencies,Male,6388,"Endocrine, nutritional and metabolic diseases (E00–E90)"
+E65-E68,Obesity and other hyperalimentation,Male,2698,"Endocrine, nutritional and metabolic diseases (E00–E90)"
+E70-E90,Metabolic disorders,Male,139969,"Endocrine, nutritional and metabolic diseases (E00–E90)"
+F00-F09,"Organic, including symptomatic, mental disorders",Male,40143,Mental and behavioural disorders (F00–F99)
+F10-F19,Mental and behavioural disorders due to psychoactive subst.,Male,53645,Mental and behavioural disorders (F00–F99)
+F20-F29,"Schizophrenia, schizotypal and delusional disorders",Male,13429,Mental and behavioural disorders (F00–F99)
+F30-F39,Mood [affective] disorders,Male,7778,Mental and behavioural disorders (F00–F99)
+F40-F48,"Neurotic, stress-related and somatoform disorders",Male,9035,Mental and behavioural disorders (F00–F99)
+F50-F59,Behavioural syndromes associated with physiological disturbances and physical factors,Male,1175,Mental and behavioural disorders (F00–F99)
+F60-F69,Disorders of adult personality and behaviour,Male,2440,Mental and behavioural disorders (F00–F99)
+F70-F79,Mental retardation,Male,255,Mental and behavioural disorders (F00–F99)
+F80-F89,Disorders of psychological development,Male,1773,Mental and behavioural disorders (F00–F99)
+F90-F98,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence,Male,656,Mental and behavioural disorders (F00–F99)
+F99-F99,Unspecified mental disorder,Male,174,Mental and behavioural disorders (F00–F99)
+G00-G09,Inflammatory diseases of the central nervous system,Male,7834,Diseases of the nervous (G00–G99)
+G10-G14,Systemic atrophies primarily affecting the central nervous system,Male,4434,Diseases of the nervous (G00–G99)
+G20-G26,Extrapyramidal & movement disorders (incl. Parkinsonism).,Male,12252,Diseases of the nervous (G00–G99)
+G30-G32,Other degenerative diseases (incl. Alzheimer).,Male,6932,Diseases of the nervous (G00–G99)
+G35-G37,Demyelinating diseases (incl Multiple Sclerosis) of the CNS.,Male,19352,Diseases of the nervous (G00–G99)
+G40-G47,Episodic and paroxysmal disorders,Male,74725,Diseases of the nervous (G00–G99)
+G50-G59,"Nerve, nerve root and plexus disorders",Male,31304,Diseases of the nervous (G00–G99)
+G60-G64,Polyneuropathies and other disorders of the peripheral nervous system,Male,24693,Diseases of the nervous (G00–G99)
+G70-G73,Diseases of myoneural junction and muscle,Male,6159,Diseases of the nervous (G00–G99)
+G80-G83,Cerebral palsy & other paralytic syndromes,Male,8411,Diseases of the nervous (G00–G99)
+G90-G99,Other diseases & disorders of the nervous syst.,Male,16617,Diseases of the nervous (G00–G99)
+H00-H06,"Disorders of eyelid, lacrimal system and orbit",Male,24934,Diseases of the eye and adnexa (H00–H59)
+H10-H13,Disorders of conjunctiva (including conjunctivitis),Male,3352,Diseases of the eye and adnexa (H00–H59)
+H15-H22,"Disorders of sclera, cornea, iris and ciliary body",Male,8957,Diseases of the eye and adnexa (H00–H59)
+H25-H28,Disorders of lens (including cataracts),Male,308994,Diseases of the eye and adnexa (H00–H59)
+H30-H36,Disorders of choroid and retina,Male,73038,Diseases of the eye and adnexa (H00–H59)
+H40-H42,Glaucoma,Male,13816,Diseases of the eye and adnexa (H00–H59)
+H43-H45,Disorders of vitreous body and globe,Male,4294,Diseases of the eye and adnexa (H00–H59)
+H46-H48,Disorders of optic nerve and visual pathways,Male,1579,Diseases of the eye and adnexa (H00–H59)
+H49-H52,"Disorders of ocular muscles, binocular movement, accommodation and refraction",Male,6926,Diseases of the eye and adnexa (H00–H59)
+H53-H54,Visual disturbances and blindness,Male,4208,Diseases of the eye and adnexa (H00–H59)
+H55-H59,Other disorders of eye and adnexa,Male,3358,Diseases of the eye and adnexa (H00–H59)
+H60-H62,Diseases of external ear,Male,7656,Diseases of the ear and mastoid process (H60–H95)
+H65-H75,Diseases of middle ear and mastoid,Male,18812,Diseases of the ear and mastoid process (H60–H95)
+H80-H83,Diseases of inner ear,Male,7166,Diseases of the ear and mastoid process (H60–H95)
+H90-H95,Other disorders of ear,Male,4897,Diseases of the ear and mastoid process (H60–H95)
+I00-I02,Acute rheumatic fever,Male,52,Diseases of the circulatory system (I00–I99)
+I05-I09,Chronic rheumatic heart diseases,Male,10706,Diseases of the circulatory system (I00–I99)
+I10-I15,Hypertensive diseases,Male,26523,Diseases of the circulatory system (I00–I99)
+I20-I25,Ischaemic heart diseases,Male,244381,Diseases of the circulatory system (I00–I99)
+I26-I28,Pulmonary heart disease & diseases of pulmonary circulation,Male,36912,Diseases of the circulatory system (I00–I99)
+I30-I52,Other forms of heart disease,Male,328884,Diseases of the circulatory system (I00–I99)
+I60-I69,Cerebrovascular diseases,Male,125961,Diseases of the circulatory system (I00–I99)
+I70-I79,"Diseases of arteries, arterioles & capillaries",Male,51139,Diseases of the circulatory system (I00–I99)
+I80-I89,Diseases of veins & lymphatic system nec.,Male,90562,Diseases of the circulatory system (I00–I99)
+I95-I99,Other & unspecified disorders of the circulatory system,Male,5728,Diseases of the circulatory system (I00–I99)
+J00-J06,Acute upper respiratory infections,Male,68079,Diseases of the respiratory system (J00–J99)
+J09-J18,Influenza & pneumonia,Male,310456,Diseases of the respiratory system (J00–J99)
+J20-J22,Other acute lower respiratory infections,Male,122441,Diseases of the respiratory system (J00–J99)
+J30-J39,Other diseases of upper respiratory tract,Male,56132,Diseases of the respiratory system (J00–J99)
+J40-J47,Chronic lower respiratory diseases,Male,156936,Diseases of the respiratory system (J00–J99)
+J60-J70,Lung diseases due to external agents,Male,47862,Diseases of the respiratory system (J00–J99)
+J80-J84,Other respiratory diseases principally affecting the interstitium,Male,15849,Diseases of the respiratory system (J00–J99)
+J85-J86,Suppurative and necrotic conditions of lower respiratory tract,Male,8321,Diseases of the respiratory system (J00–J99)
+J90-J94,Other diseases of pleura,Male,38392,Diseases of the respiratory system (J00–J99)
+J95-J99,Other diseases of the respiratory system,Male,23703,Diseases of the respiratory system (J00–J99)
+K00-K14,"Diseases of oral cavity, salivary glands & jaws",Male,91290,Diseases of the digestive system (K00–K93)
+K20-K31,"Diseases of oesophagus, stomach & duodenum",Male,244242,Diseases of the digestive system (K00–K93)
+K35-K38,Diseases of appendix,Male,33349,Diseases of the digestive system (K00–K93)
+K40-K46,Hernia,Male,133514,Diseases of the digestive system (K00–K93)
+K50-K52,Noninfective enteritis & colitis,Male,194694,Diseases of the digestive system (K00–K93)
+K55-K64,Other diseases of intestines,Male,351026,Diseases of the digestive system (K00–K93)
+K65-K67,Diseases of peritoneum,Male,6686,Diseases of the digestive system (K00–K93)
+K70-K77,Diseases of liver,Male,67059,Diseases of the digestive system (K00–K93)
+K80-K87,"Disorders of gall bladder, biliary tract & pancreas",Male,133584,Diseases of the digestive system (K00–K93)
+K90-K93,Other diseases of the digestive system,Male,84471,Diseases of the digestive system (K00–K93)
+L00-L08,Infections of the skin and subcutaneous tissue,Male,137897,Diseases of the skin and subcutaneous tissue (L00–L99)
+L10-L14,Bullous disorders,Male,1772,Diseases of the skin and subcutaneous tissue (L00–L99)
+L20-L30,Dermatitis and eczema,Male,9320,Diseases of the skin and subcutaneous tissue (L00–L99)
+L40-L45,Papulosquamous disorders (including Psoriasis),Male,4656,Diseases of the skin and subcutaneous tissue (L00–L99)
+L50-L54,Urticaria and erythems,Male,4662,Diseases of the skin and subcutaneous tissue (L00–L99)
+L55-L59,Radiation-related disorders of the skin and subcutaneous tissue,Male,9159,Diseases of the skin and subcutaneous tissue (L00–L99)
+L60-L75,Disorders of skin appendages,Male,27421,Diseases of the skin and subcutaneous tissue (L00–L99)
+L80-L99,Other disorders of the skin and subcutaneous tissue,Male,60635,Diseases of the skin and subcutaneous tissue (L00–L99)
+M00-M25,Arthropathies,Male,227662,Diseases of the musculoskeletal system and connective tissue (M00–M99)
+M30-M36,Systemic connective tissue disorders,Male,11071,Diseases of the musculoskeletal system and connective tissue (M00–M99)
+M40-M54,Dorsopathies,Male,123375,Diseases of the musculoskeletal system and connective tissue (M00–M99)
+M60-M79,Soft tissue disorders,Male,113403,Diseases of the musculoskeletal system and connective tissue (M00–M99)
+M80-M94,Osteopathies and chondropathies,Male,45729,Diseases of the musculoskeletal system and connective tissue (M00–M99)
+M95-M99,Other disorders of the musculoskeletal system & conn. tiss.,Male,6131,Diseases of the musculoskeletal system and connective tissue (M00–M99)
+N00-N08,Glomerular diseases,Male,8262,Diseases of the genitourinary system (N00–N99)
+N10-N16,Renal tubulo-interstitial diseases,Male,56040,Diseases of the genitourinary system (N00–N99)
+N17-N19,Renal failure,Male,100397,Diseases of the genitourinary system (N00–N99)
+N20-N23,Urolithiasis,Male,55626,Diseases of the genitourinary system (N00–N99)
+N25-N29,Other disorders of kidney & ureter,Male,4649,Diseases of the genitourinary system (N00–N99)
+N30-N39,Other diseases of the urinary system,Male,152196,Diseases of the genitourinary system (N00–N99)
+N40-N51,Diseases of male genital organs,Male,137796,Diseases of the genitourinary system (N00–N99)
+N60-N64,Disorders of breast,Male,796,Diseases of the genitourinary system (N00–N99)
+N70-N77,Inflammatory diseases of female pelvic organs,Male,18,Diseases of the genitourinary system (N00–N99)
+N80-N98,Noninflammatory disorders of female genital tract,Male,95,Diseases of the genitourinary system (N00–N99)
+N99,Other disorders of the genitourinary system,Male,2160,Diseases of the genitourinary system (N00–N99)
+O00-O08,Pregnancy with abortive outcome,Male,9,"Pregnancy, childbirth and the puerperium (O00–O99)"
+O10-O16,"Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium",Male,3,"Pregnancy, childbirth and the puerperium (O00–O99)"
+O20-O29,Other maternal disorders predominantly related to pregnancy,Male,25,"Pregnancy, childbirth and the puerperium (O00–O99)"
+O30-O48,Maternal care related to the fetus and amniotic cavity and possible delivery problems,Male,25,"Pregnancy, childbirth and the puerperium (O00–O99)"
+O60-O75,Complications of labour and delivery,Male,1,"Pregnancy, childbirth and the puerperium (O00–O99)"
+O80-O84,Delivery,Male,0,"Pregnancy, childbirth and the puerperium (O00–O99)"
+O85-O92,Complications predominantly related to the puerperium,Male,3,"Pregnancy, childbirth and the puerperium (O00–O99)"
+O94-O99,"Other obstetric conditions, not elsewhere classified",Male,11,"Pregnancy, childbirth and the puerperium (O00–O99)"
+P00-P04,"Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery",Male,87,Certain conditions originating in the perinatal period (P00–P96)
+P05-P08,Disorders related to length of gestation and fetal growth,Male,32933,Certain conditions originating in the perinatal period (P00–P96)
+P10-P15,Birth trauma,Male,4672,Certain conditions originating in the perinatal period (P00–P96)
+P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period,Male,42915,Certain conditions originating in the perinatal period (P00–P96)
+P35-P39,Infections specific to the perinatal period,Male,10390,Certain conditions originating in the perinatal period (P00–P96)
+P50-P61,Haemorrhagic and haematological disorders of fetus and newborn,Male,31926,Certain conditions originating in the perinatal period (P00–P96)
+P70-P74,Transitory endocrine and metabolic disorders specific to fetus and newborn,Male,4911,Certain conditions originating in the perinatal period (P00–P96)
+P75-P78,Digestive system disorders of fetus and newborn,Male,2590,Certain conditions originating in the perinatal period (P00–P96)
+P80-P83,Conditions involving the integument and temperature regulation of fetus and newborn,Male,6783,Certain conditions originating in the perinatal period (P00–P96)
+P90-P96,Other disorders originating in the perinatal period,Male,12175,Certain conditions originating in the perinatal period (P00–P96)
+Q00-Q07,Congenital malformations of the nervous system,Male,2147,"Congenital malformations, deformations and chromosomal abnormalities (Q00–Q99)"
+Q10-Q18,"Congenital malformations of eye, ear, face and neck",Male,4665,"Congenital malformations, deformations and chromosomal abnormalities (Q00–Q99)"
+Q20-Q28,Congenital malformations of the circulatory system,Male,13242,"Congenital malformations, deformations and chromosomal abnormalities (Q00–Q99)"
+Q30-Q34,Congenital malformations of the respiratory system,Male,1865,"Congenital malformations, deformations and chromosomal abnormalities (Q00–Q99)"
+Q35-Q37,Cleft lip and cleft palate,Male,1466,"Congenital malformations, deformations and chromosomal abnormalities (Q00–Q99)"
+Q38-Q45,Other congenital malformations of the digestive system,Male,7927,"Congenital malformations, deformations and chromosomal abnormalities (Q00–Q99)"
+Q50-Q56,Congenital malformations of genital organs,Male,13272,"Congenital malformations, deformations and chromosomal abnormalities (Q00–Q99)"
+Q60-Q64,Congenital malformations of the urinary system,Male,3473,"Congenital malformations, deformations and chromosomal abnormalities (Q00–Q99)"
+Q65-Q79,Congenital malformations and deformations of the musculoskeletal system,Male,8222,"Congenital malformations, deformations and chromosomal abnormalities (Q00–Q99)"
+Q80-Q89,Other congenital malformations,Male,3875,"Congenital malformations, deformations and chromosomal abnormalities (Q00–Q99)"
+Q90-Q99,"Chromosomal abnormalities, not elsewhere classified",Male,894,"Congenital malformations, deformations and chromosomal abnormalities (Q00–Q99)"
+R00-R09,Symptoms & signs inv. the circulatory/respiratory system,Male,230129,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+R10-R19,Symptoms & signs inv. the digestive system & abdomen,Male,197018,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+R20-R23,Symptoms & signs inv. the skin & subcutaneous tissue,Male,20316,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+R25-R29,Symptoms & signs inv. the nervous & musculoskeletal sys.,Male,85475,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+R30-R39,Symptoms & signs involving the urinary system,Male,75347,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+R40-R46,Symptoms & signs inv. Cognition perception etc.,Male,43846,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+R47-R49,Symptoms & signs inv. speech & voice,Male,4645,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+R50-R69,General symptoms & signs,Male,318562,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+R70-R79,"Abnormal findings on examination of blood, without diagnosis",Male,24007,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+R80-R82,"Abnormal findings on examination of urine, without diagnosis",Male,743,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+R83-R89,"Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis",Male,707,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+R90-R94,Abnormal findings on diagnostic imaging/function studies,Male,28206,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+R95-R99,Ill-defined & unknown causes of mortality,Male,3,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+S00-S09,Injuries to the head,Male,101598,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+S10-S19,Injuries to the neck,Male,7997,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+S20-S29,Injuries to the thorax,Male,30474,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+S30-S39,"Injuries to abdomen, lower back, lumbar spine & pelvis",Male,27420,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+S40-S49,Injuries to the shoulder & upper arm,Male,27739,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+S50-S59,Injuries to the elbow & forearm,Male,29079,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+S60-S69,Injuries to the wrist & hand,Male,58201,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+S70-S79,Injuries to the hip & thigh,Male,48884,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+S80-S89,Injuries to the knee & lower leg,Male,44904,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+S90-S99,Injuries to the ankle & foot,Male,9495,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+T00-T07,Injuries involving multiple body regions,Male,2370,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+T08-T14,Injuries to unspecified part of trunk limb or body,Male,614,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+T15-T19,Effects of foreign body entering through natural orifice,Male,11314,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+T20-T32,Burns and corrosions,Male,7168,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+T33-T35,Frostbite,Male,45,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+T36-T50,Poisonings by drugs medicaments & biological substances,Male,38044,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+T51-T65,Tox. effcts. of substnces. chiefly non-medicinal as to source,Male,3601,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+T66-T78,Other and unspecified effects of external causes,Male,10502,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+T79-T79,Certain early complications of trauma,Male,4463,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+T80-T88,Complications of surgical & medical care nec.,Male,164045,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+T90-T98,Sequelae of injuries of poisoning & other consequences,Male,2,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+U00-U49,Provisional assignment of new diseases of uncertain etiology,Male,52819,Codes for special purposes (U00–U85)
+U82-U85,Resistance to antimicrobial and antineoplastic drugs,Male,0,Codes for special purposes (U00–U85)
+Z00-Z13,Examination and investigation,Male,128717,Factors influencing health status and contact with health services (Z00–Z99)
+Z20-Z29,Potential health hazards related to communicable diseases,Male,8254,Factors influencing health status and contact with health services (Z00–Z99)
+Z30-Z39,Health services in circumstances related to reproduction,Male,184215,Factors influencing health status and contact with health services (Z00–Z99)
+Z40-Z54,Persons encountering health services for specific care,Male,59131,Factors influencing health status and contact with health services (Z00–Z99)
+Z55-Z65,Potential health hazards reltd. to socioeconomic & psychosoc.l,Male,529,Factors influencing health status and contact with health services (Z00–Z99)
+Z70-Z76,Persons encountering health services in other circs.,Male,9135,Factors influencing health status and contact with health services (Z00–Z99)
+Z80-Z99,Persons with potential health hazards related to family,Male,6151,Factors influencing health status and contact with health services (Z00–Z99)
+A00-A09,Intestinal infectious diseases,Female,114810,Certain infectious and parasitic diseases (A00–B99)
+A15-A19,Tuberculosis,Female,2186,Certain infectious and parasitic diseases (A00–B99)
+A20-A28,Certain zoonotic bacterial diseases,Female,163,Certain infectious and parasitic diseases (A00–B99)
+A30-A49,Other bacterial diseases,Female,121099,Certain infectious and parasitic diseases (A00–B99)
+A50-A64,Infections with a predominantly sexual mode of transmission,Female,1416,Certain infectious and parasitic diseases (A00–B99)
+A65-A69,Other spirochaetal diseases,Female,290,Certain infectious and parasitic diseases (A00–B99)
+A70-A74,Other diseases caused by chlamydiae,Female,50,Certain infectious and parasitic diseases (A00–B99)
+A75-A79,Rickettsioses,Female,27,Certain infectious and parasitic diseases (A00–B99)
+A80-A89,Viral infections of the central nervous system,Female,3188,Certain infectious and parasitic diseases (A00–B99)
+A92-A99,Arthropod-borne viral fevers & viral haemorrhagic fevers,Female,271,Certain infectious and parasitic diseases (A00–B99)
+B00-B09,Viral infections characterized by skin & mucous mem. lesns.,Female,10229,Certain infectious and parasitic diseases (A00–B99)
+B15-B19,Viral hepatitis,Female,2009,Certain infectious and parasitic diseases (A00–B99)
+B20-B24,Human immunodeficiency virus [HIV] disease,Female,951,Certain infectious and parasitic diseases (A00–B99)
+B25-B34,Other viral diseases,Female,42668,Certain infectious and parasitic diseases (A00–B99)
+B35-B49,Mycoses,Female,5838,Certain infectious and parasitic diseases (A00–B99)
+B50-B64,Protozoal diseases,Female,1735,Certain infectious and parasitic diseases (A00–B99)
+B65-B83,Helminthiases,Female,376,Certain infectious and parasitic diseases (A00–B99)
+B85-B89,"Pediculosis, acariasis and other infestations",Female,306,Certain infectious and parasitic diseases (A00–B99)
+B95-B98,"Bacterial, viral and other infectious agents",Female,19,Certain infectious and parasitic diseases (A00–B99)
+B99-B99,Other infectious and parasitic diseases,Female,10912,Certain infectious and parasitic diseases (A00–B99)
+C00-C14,Malignant neoplasm of lip-oral cavity and pharynx,Female,9081,Neoplasms (C00–D48)
+C15-C26,Malignant neoplasm of digestive organs,Female,139705,Neoplasms (C00–D48)
+C30-C39,Malignant neoplasms of respiratory & intrathoracic organs,Female,65378,Neoplasms (C00–D48)
+C40-C41,Malignant neoplasm of bone and articular cartilage,Female,3260,Neoplasms (C00–D48)
+C43-C44,Malignant neoplasms of skin,Female,71896,Neoplasms (C00–D48)
+C45-C49,Malignant neoplasms of mesothelial and soft tissue,Female,11436,Neoplasms (C00–D48)
+C50-C50,Malignant neoplasm of breast,Female,262348,Neoplasms (C00–D48)
+C51-C58,Malignant neoplasms of female genital organs,Female,81377,Neoplasms (C00–D48)
+C60-C63,Malignant neoplasms of male genital organs,Female,19,Neoplasms (C00–D48)
+C64-C68,Malignant neoplasms of urinary tract,Female,28998,Neoplasms (C00–D48)
+C69-C72,"Malignant neoplasms of eye, brain & other parts of CNS",Female,12232,Neoplasms (C00–D48)
+C73-C75,Malignant neoplasms of thyroid and other endocrine glands,Female,7800,Neoplasms (C00–D48)
+C76-C80,"Malignant neoplasms of ill-defined, secondary and unspecified sites",Female,134672,Neoplasms (C00–D48)
+C81-C96,"Malignant neoplasms of lymphoid, haematopoietic & rel. tiss.",Female,185275,Neoplasms (C00–D48)
+C97-C97,Malignant neoplasms of independent (primary) multiple sites,Female,17786,Neoplasms (C00–D48)
+D00-D09,In situ neoplasms,Female,22554,Neoplasms (C00–D48)
+D10-D36,Benign neoplasms,Female,189589,Neoplasms (C00–D48)
+D37-D48,Neoplasms of uncertain or unknown behaviour,Female,45644,Neoplasms (C00–D48)
+D50-D53,Nutritional anaemias,Female,137205,Diseases of the blood and blood-forming organs (D50–D89)
+D55-D59,Haemolytic anaemias,Female,31979,Diseases of the blood and blood-forming organs (D50–D89)
+D60-D64,Aplastic and other anaemias,Female,63212,Diseases of the blood and blood-forming organs (D50–D89)
+D65-D69,"Coagulation defects, purpura and other haemorrhagic conditions",Female,16085,Diseases of the blood and blood-forming organs (D50–D89)
+D70-D77,Other diseases of blood and blood-forming organs,Female,10483,Diseases of the blood and blood-forming organs (D50–D89)
+D80-D89,Certain disorders involving the immune mechanism,Female,13876,Diseases of the blood and blood-forming organs (D50–D89)
+E00-E07,Disorders of thyroid gland,Female,16141,"Endocrine, nutritional and metabolic diseases (E00–E90)"
+E10-E14,Diabetes Mellitus,Female,45260,"Endocrine, nutritional and metabolic diseases (E00–E90)"
+E15-E16,Other disorders of glucose regulation and pancreatic internal secretion,Female,11918,"Endocrine, nutritional and metabolic diseases (E00–E90)"
+E20-E35,Disorders of other endocrine glands,Female,22248,"Endocrine, nutritional and metabolic diseases (E00–E90)"
+E40-E46,Malnutrition,Female,1726,"Endocrine, nutritional and metabolic diseases (E00–E90)"
+E50-E64,Other nutritional deficiencies,Female,9686,"Endocrine, nutritional and metabolic diseases (E00–E90)"
+E65-E68,Obesity and other hyperalimentation,Female,8543,"Endocrine, nutritional and metabolic diseases (E00–E90)"
+E70-E90,Metabolic disorders,Female,134256,"Endocrine, nutritional and metabolic diseases (E00–E90)"
+F00-F09,"Organic, including symptomatic, mental disorders",Female,50156,Mental and behavioural disorders (F00–F99)
+F10-F19,Mental and behavioural disorders due to psychoactive subst.,Female,23312,Mental and behavioural disorders (F00–F99)
+F20-F29,"Schizophrenia, schizotypal and delusional disorders",Female,9781,Mental and behavioural disorders (F00–F99)
+F30-F39,Mood [affective] disorders,Female,9908,Mental and behavioural disorders (F00–F99)
+F40-F48,"Neurotic, stress-related and somatoform disorders",Female,16504,Mental and behavioural disorders (F00–F99)
+F50-F59,Behavioural syndromes associated with physiological disturbances and physical factors,Female,7245,Mental and behavioural disorders (F00–F99)
+F60-F69,Disorders of adult personality and behaviour,Female,4583,Mental and behavioural disorders (F00–F99)
+F70-F79,Mental retardation,Female,167,Mental and behavioural disorders (F00–F99)
+F80-F89,Disorders of psychological development,Female,1183,Mental and behavioural disorders (F00–F99)
+F90-F98,Behavioural and emotional disorders with onset usually occurring in childhood and adolescence,Female,710,Mental and behavioural disorders (F00–F99)
+F99-F99,Unspecified mental disorder,Female,213,Mental and behavioural disorders (F00–F99)
+G00-G09,Inflammatory diseases of the central nervous system,Female,7408,Diseases of the nervous (G00–G99)
+G10-G14,Systemic atrophies primarily affecting the central nervous system,Female,3699,Diseases of the nervous (G00–G99)
+G20-G26,Extrapyramidal & movement disorders (incl. Parkinsonism).,Female,9712,Diseases of the nervous (G00–G99)
+G30-G32,Other degenerative diseases (incl. Alzheimer).,Female,7390,Diseases of the nervous (G00–G99)
+G35-G37,Demyelinating diseases (incl Multiple Sclerosis) of the CNS.,Female,50054,Diseases of the nervous (G00–G99)
+G40-G47,Episodic and paroxysmal disorders,Female,92515,Diseases of the nervous (G00–G99)
+G50-G59,"Nerve, nerve root and plexus disorders",Female,46226,Diseases of the nervous (G00–G99)
+G60-G64,Polyneuropathies and other disorders of the peripheral nervous system,Female,15237,Diseases of the nervous (G00–G99)
+G70-G73,Diseases of myoneural junction and muscle,Female,5235,Diseases of the nervous (G00–G99)
+G80-G83,Cerebral palsy & other paralytic syndromes,Female,7152,Diseases of the nervous (G00–G99)
+G90-G99,Other diseases & disorders of the nervous syst.,Female,20843,Diseases of the nervous (G00–G99)
+H00-H06,"Disorders of eyelid, lacrimal system and orbit",Female,27167,Diseases of the eye and adnexa (H00–H59)
+H10-H13,Disorders of conjunctiva (including conjunctivitis),Female,3067,Diseases of the eye and adnexa (H00–H59)
+H15-H22,"Disorders of sclera, cornea, iris and ciliary body",Female,7980,Diseases of the eye and adnexa (H00–H59)
+H25-H28,Disorders of lens (including cataracts),Female,437026,Diseases of the eye and adnexa (H00–H59)
+H30-H36,Disorders of choroid and retina,Female,76066,Diseases of the eye and adnexa (H00–H59)
+H40-H42,Glaucoma,Female,12771,Diseases of the eye and adnexa (H00–H59)
+H43-H45,Disorders of vitreous body and globe,Female,3862,Diseases of the eye and adnexa (H00–H59)
+H46-H48,Disorders of optic nerve and visual pathways,Female,3428,Diseases of the eye and adnexa (H00–H59)
+H49-H52,"Disorders of ocular muscles, binocular movement, accommodation and refraction",Female,7722,Diseases of the eye and adnexa (H00–H59)
+H53-H54,Visual disturbances and blindness,Female,5410,Diseases of the eye and adnexa (H00–H59)
+H55-H59,Other disorders of eye and adnexa,Female,3448,Diseases of the eye and adnexa (H00–H59)
+H60-H62,Diseases of external ear,Female,8499,Diseases of the ear and mastoid process (H60–H95)
+H65-H75,Diseases of middle ear and mastoid,Female,17636,Diseases of the ear and mastoid process (H60–H95)
+H80-H83,Diseases of inner ear,Female,11752,Diseases of the ear and mastoid process (H60–H95)
+H90-H95,Other disorders of ear,Female,5373,Diseases of the ear and mastoid process (H60–H95)
+I00-I02,Acute rheumatic fever,Female,73,Diseases of the circulatory system (I00–I99)
+I05-I09,Chronic rheumatic heart diseases,Female,9458,Diseases of the circulatory system (I00–I99)
+I10-I15,Hypertensive diseases,Female,33181,Diseases of the circulatory system (I00–I99)
+I20-I25,Ischaemic heart diseases,Female,116478,Diseases of the circulatory system (I00–I99)
+I26-I28,Pulmonary heart disease & diseases of pulmonary circulation,Female,42766,Diseases of the circulatory system (I00–I99)
+I30-I52,Other forms of heart disease,Female,253225,Diseases of the circulatory system (I00–I99)
+I60-I69,Cerebrovascular diseases,Female,113987,Diseases of the circulatory system (I00–I99)
+I70-I79,"Diseases of arteries, arterioles & capillaries",Female,30948,Diseases of the circulatory system (I00–I99)
+I80-I89,Diseases of veins & lymphatic system nec.,Female,82462,Diseases of the circulatory system (I00–I99)
+I95-I99,Other & unspecified disorders of the circulatory system,Female,3193,Diseases of the circulatory system (I00–I99)
+J00-J06,Acute upper respiratory infections,Female,74013,Diseases of the respiratory system (J00–J99)
+J09-J18,Influenza & pneumonia,Female,313724,Diseases of the respiratory system (J00–J99)
+J20-J22,Other acute lower respiratory infections,Female,124513,Diseases of the respiratory system (J00–J99)
+J30-J39,Other diseases of upper respiratory tract,Female,46836,Diseases of the respiratory system (J00–J99)
+J40-J47,Chronic lower respiratory diseases,Female,218102,Diseases of the respiratory system (J00–J99)
+J60-J70,Lung diseases due to external agents,Female,34562,Diseases of the respiratory system (J00–J99)
+J80-J84,Other respiratory diseases principally affecting the interstitium,Female,16729,Diseases of the respiratory system (J00–J99)
+J85-J86,Suppurative and necrotic conditions of lower respiratory tract,Female,4252,Diseases of the respiratory system (J00–J99)
+J90-J94,Other diseases of pleura,Female,22985,Diseases of the respiratory system (J00–J99)
+J95-J99,Other diseases of the respiratory system,Female,26808,Diseases of the respiratory system (J00–J99)
+K00-K14,"Diseases of oral cavity, salivary glands & jaws",Female,110919,Diseases of the digestive system (K00–K93)
+K20-K31,"Diseases of oesophagus, stomach & duodenum",Female,254757,Diseases of the digestive system (K00–K93)
+K35-K38,Diseases of appendix,Female,29928,Diseases of the digestive system (K00–K93)
+K40-K46,Hernia,Female,81517,Diseases of the digestive system (K00–K93)
+K50-K52,Noninfective enteritis & colitis,Female,193229,Diseases of the digestive system (K00–K93)
+K55-K64,Other diseases of intestines,Female,380042,Diseases of the digestive system (K00–K93)
+K65-K67,Diseases of peritoneum,Female,7531,Diseases of the digestive system (K00–K93)
+K70-K77,Diseases of liver,Female,45953,Diseases of the digestive system (K00–K93)
+K80-K87,"Disorders of gall bladder, biliary tract & pancreas",Female,193132,Diseases of the digestive system (K00–K93)
+K90-K93,Other diseases of the digestive system,Female,81895,Diseases of the digestive system (K00–K93)
+L00-L08,Infections of the skin and subcutaneous tissue,Female,116994,Diseases of the skin and subcutaneous tissue (L00–L99)
+L10-L14,Bullous disorders,Female,1824,Diseases of the skin and subcutaneous tissue (L00–L99)
+L20-L30,Dermatitis and eczema,Female,9624,Diseases of the skin and subcutaneous tissue (L00–L99)
+L40-L45,Papulosquamous disorders (including Psoriasis),Female,4989,Diseases of the skin and subcutaneous tissue (L00–L99)
+L50-L54,Urticaria and erythems,Female,7463,Diseases of the skin and subcutaneous tissue (L00–L99)
+L55-L59,Radiation-related disorders of the skin and subcutaneous tissue,Female,7425,Diseases of the skin and subcutaneous tissue (L00–L99)
+L60-L75,Disorders of skin appendages,Female,25480,Diseases of the skin and subcutaneous tissue (L00–L99)
+L80-L99,Other disorders of the skin and subcutaneous tissue,Female,60365,Diseases of the skin and subcutaneous tissue (L00–L99)
+M00-M25,Arthropathies,Female,333696,Diseases of the musculoskeletal system and connective tissue (M00–M99)
+M30-M36,Systemic connective tissue disorders,Female,25425,Diseases of the musculoskeletal system and connective tissue (M00–M99)
+M40-M54,Dorsopathies,Female,182471,Diseases of the musculoskeletal system and connective tissue (M00–M99)
+M60-M79,Soft tissue disorders,Female,137872,Diseases of the musculoskeletal system and connective tissue (M00–M99)
+M80-M94,Osteopathies and chondropathies,Female,81413,Diseases of the musculoskeletal system and connective tissue (M00–M99)
+M95-M99,Other disorders of the musculoskeletal system & conn. tiss.,Female,10280,Diseases of the musculoskeletal system and connective tissue (M00–M99)
+N00-N08,Glomerular diseases,Female,5528,Diseases of the genitourinary system (N00–N99)
+N10-N16,Renal tubulo-interstitial diseases,Female,70545,Diseases of the genitourinary system (N00–N99)
+N17-N19,Renal failure,Female,77013,Diseases of the genitourinary system (N00–N99)
+N20-N23,Urolithiasis,Female,33518,Diseases of the genitourinary system (N00–N99)
+N25-N29,Other disorders of kidney & ureter,Female,3741,Diseases of the genitourinary system (N00–N99)
+N30-N39,Other diseases of the urinary system,Female,186165,Diseases of the genitourinary system (N00–N99)
+N40-N51,Diseases of male genital organs,Female,90,Diseases of the genitourinary system (N00–N99)
+N60-N64,Disorders of breast,Female,17929,Diseases of the genitourinary system (N00–N99)
+N70-N77,Inflammatory diseases of female pelvic organs,Female,27090,Diseases of the genitourinary system (N00–N99)
+N80-N98,Noninflammatory disorders of female genital tract,Female,200246,Diseases of the genitourinary system (N00–N99)
+N99,Other disorders of the genitourinary system,Female,2127,Diseases of the genitourinary system (N00–N99)
+O00-O08,Pregnancy with abortive outcome,Female,103494,"Pregnancy, childbirth and the puerperium (O00–O99)"
+O10-O16,"Oedema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium",Female,49817,"Pregnancy, childbirth and the puerperium (O00–O99)"
+O20-O29,Other maternal disorders predominantly related to pregnancy,Female,263638,"Pregnancy, childbirth and the puerperium (O00–O99)"
+O30-O48,Maternal care related to the fetus and amniotic cavity and possible delivery problems,Female,478344,"Pregnancy, childbirth and the puerperium (O00–O99)"
+O60-O75,Complications of labour and delivery,Female,306666,"Pregnancy, childbirth and the puerperium (O00–O99)"
+O80-O84,Delivery,Female,18650,"Pregnancy, childbirth and the puerperium (O00–O99)"
+O85-O92,Complications predominantly related to the puerperium,Female,35699,"Pregnancy, childbirth and the puerperium (O00–O99)"
+O94-O99,"Other obstetric conditions, not elsewhere classified",Female,60213,"Pregnancy, childbirth and the puerperium (O00–O99)"
+P00-P04,"Fetus and newborn affected by maternal factors and by complications of pregnancy, labour and delivery",Female,73,Certain conditions originating in the perinatal period (P00–P96)
+P05-P08,Disorders related to length of gestation and fetal growth,Female,30142,Certain conditions originating in the perinatal period (P00–P96)
+P10-P15,Birth trauma,Female,4084,Certain conditions originating in the perinatal period (P00–P96)
+P20-P29,Respiratory and cardiovascular disorders specific to the perinatal period,Female,32631,Certain conditions originating in the perinatal period (P00–P96)
+P35-P39,Infections specific to the perinatal period,Female,8204,Certain conditions originating in the perinatal period (P00–P96)
+P50-P61,Haemorrhagic and haematological disorders of fetus and newborn,Female,26632,Certain conditions originating in the perinatal period (P00–P96)
+P70-P74,Transitory endocrine and metabolic disorders specific to fetus and newborn,Female,3893,Certain conditions originating in the perinatal period (P00–P96)
+P75-P78,Digestive system disorders of fetus and newborn,Female,2119,Certain conditions originating in the perinatal period (P00–P96)
+P80-P83,Conditions involving the integument and temperature regulation of fetus and newborn,Female,5601,Certain conditions originating in the perinatal period (P00–P96)
+P90-P96,Other disorders originating in the perinatal period,Female,11336,Certain conditions originating in the perinatal period (P00–P96)
+Q00-Q07,Congenital malformations of the nervous system,Female,2513,"Congenital malformations, deformations and chromosomal abnormalities (Q00–Q99)"
+Q10-Q18,"Congenital malformations of eye, ear, face and neck",Female,5715,"Congenital malformations, deformations and chromosomal abnormalities (Q00–Q99)"
+Q20-Q28,Congenital malformations of the circulatory system,Female,11870,"Congenital malformations, deformations and chromosomal abnormalities (Q00–Q99)"
+Q30-Q34,Congenital malformations of the respiratory system,Female,1611,"Congenital malformations, deformations and chromosomal abnormalities (Q00–Q99)"
+Q35-Q37,Cleft lip and cleft palate,Female,1204,"Congenital malformations, deformations and chromosomal abnormalities (Q00–Q99)"
+Q38-Q45,Other congenital malformations of the digestive system,Female,5523,"Congenital malformations, deformations and chromosomal abnormalities (Q00–Q99)"
+Q50-Q56,Congenital malformations of genital organs,Female,1563,"Congenital malformations, deformations and chromosomal abnormalities (Q00–Q99)"
+Q60-Q64,Congenital malformations of the urinary system,Female,1699,"Congenital malformations, deformations and chromosomal abnormalities (Q00–Q99)"
+Q65-Q79,Congenital malformations and deformations of the musculoskeletal system,Female,8658,"Congenital malformations, deformations and chromosomal abnormalities (Q00–Q99)"
+Q80-Q89,Other congenital malformations,Female,4572,"Congenital malformations, deformations and chromosomal abnormalities (Q00–Q99)"
+Q90-Q99,"Chromosomal abnormalities, not elsewhere classified",Female,622,"Congenital malformations, deformations and chromosomal abnormalities (Q00–Q99)"
+R00-R09,Symptoms & signs inv. the circulatory/respiratory system,Female,257499,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+R10-R19,Symptoms & signs inv. the digestive system & abdomen,Female,368544,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+R20-R23,Symptoms & signs inv. the skin & subcutaneous tissue,Female,24029,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+R25-R29,Symptoms & signs inv. the nervous & musculoskeletal sys.,Female,102828,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+R30-R39,Symptoms & signs involving the urinary system,Female,31181,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+R40-R46,Symptoms & signs inv. Cognition perception etc.,Female,52316,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+R47-R49,Symptoms & signs inv. speech & voice,Female,5251,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+R50-R69,General symptoms & signs,Female,373440,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+R70-R79,"Abnormal findings on examination of blood, without diagnosis",Female,15691,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+R80-R82,"Abnormal findings on examination of urine, without diagnosis",Female,734,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+R83-R89,"Abnormal findings on examination of other body fluids, substances and tissues, without diagnosis",Female,2350,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+R90-R94,Abnormal findings on diagnostic imaging/function studies,Female,31251,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+R95-R99,Ill-defined & unknown causes of mortality,Female,4,"Symptoms, signs and abnormal clinical and laboratory findings (R00–R99)"
+S00-S09,Injuries to the head,Female,79698,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+S10-S19,Injuries to the neck,Female,6818,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+S20-S29,Injuries to the thorax,Female,26244,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+S30-S39,"Injuries to abdomen, lower back, lumbar spine & pelvis",Female,41342,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+S40-S49,Injuries to the shoulder & upper arm,Female,32083,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+S50-S59,Injuries to the elbow & forearm,Female,38088,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+S60-S69,Injuries to the wrist & hand,Female,26176,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+S70-S79,Injuries to the hip & thigh,Female,90166,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+S80-S89,Injuries to the knee & lower leg,Female,54212,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+S90-S99,Injuries to the ankle & foot,Female,9497,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+T00-T07,Injuries involving multiple body regions,Female,2863,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+T08-T14,Injuries to unspecified part of trunk limb or body,Female,799,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+T15-T19,Effects of foreign body entering through natural orifice,Female,11897,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+T20-T32,Burns and corrosions,Female,5316,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+T33-T35,Frostbite,Female,19,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+T36-T50,Poisonings by drugs medicaments & biological substances,Female,61200,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+T51-T65,Tox. effcts. of substnces. chiefly non-medicinal as to source,Female,3282,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+T66-T78,Other and unspecified effects of external causes,Female,11385,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+T79-T79,Certain early complications of trauma,Female,3358,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+T80-T88,Complications of surgical & medical care nec.,Female,137931,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+T90-T98,Sequelae of injuries of poisoning & other consequences,Female,3,"Injury, poisoning and certain other consequences of external causes (S00–T98)"
+U00-U49,Provisional assignment of new diseases of uncertain etiology,Female,52379,Codes for special purposes (U00–U85)
+U82-U85,Resistance to antimicrobial and antineoplastic drugs,Female,1,Codes for special purposes (U00–U85)
+Z00-Z13,Examination and investigation,Female,115315,Factors influencing health status and contact with health services (Z00–Z99)
+Z20-Z29,Potential health hazards related to communicable diseases,Female,13239,Factors influencing health status and contact with health services (Z00–Z99)
+Z30-Z39,Health services in circumstances related to reproduction,Female,316606,Factors influencing health status and contact with health services (Z00–Z99)
+Z40-Z54,Persons encountering health services for specific care,Female,51752,Factors influencing health status and contact with health services (Z00–Z99)
+Z55-Z65,Potential health hazards reltd. to socioeconomic & psychosoc.l,Female,737,Factors influencing health status and contact with health services (Z00–Z99)
+Z70-Z76,Persons encountering health services in other circs.,Female,12038,Factors influencing health status and contact with health services (Z00–Z99)
+Z80-Z99,Persons with potential health hazards related to family,Female,4115,Factors influencing health status and contact with health services (Z00–Z99)

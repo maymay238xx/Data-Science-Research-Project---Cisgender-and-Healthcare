@@ -3,3 +3,6 @@
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+/practice.ipynb
+/test.py
+/notebooks/.ipynb_checkpoints/

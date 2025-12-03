@@ -1,0 +1,101 @@
+procedure_group,male_fce,female_fce
+A1 Tissue of brain (A01-A11),5491,4382
+A2 Ventricle of brain and subarachnoid space (A12-A22),3706,3695
+A3 Cranial nerves (A24-A36),1462,1851
+A4 Meninges of brain (A38-A43),3541,2663
+A5 Spinal cord and other contents of spinal canal (A44-A57),61877,79476
+A6 Peripheral nerves (A59-A73),43894,72041
+A7 Other parts of nervous system (A75-A84),10882,10523
+B1 Pituitary and pineal glands (B01-B06),771,699
+B2 Thyroid and parathyroid glands (B08-B17),4632,15025
+B3 Other endocrine glands (B18-B25),863,926
+B4 Breast (B27-B41),1633,88348
+C1 Orbit (C01-C08),1665,1323
+C2 Eyebrow and eyelid (C09-C23),30915,30978
+C3 Lacrimal apparatus (C24-C29),2602,4870
+C4 Muscles of eye (C31-C37),5052,5981
+C5 Conjunctiva and cornea (C39-C51),10951,8578
+C6 Sclera and iris (C52-C65),10830,9585
+C7 Anterior chamber of eye and lens (C66-C77),304891,430967
+"C8 Retina, other parts of eye and anaesthetics (C79-C91)",81102,83134
+D1 External ear and external auditory canal (D01-D08),24112,11866
+D2 Mastoid and middle ear (D10-D20),15314,13959
+D3 Inner ear and eustachian canal (D22-D28),1300,1345
+"E1 Nose (E01-E11,E64-E66)",44471,35321
+E2 Nasal sinuses (E12-E17),4451,3440
+E3 Pharynx (E19-E28),11057,9214
+E4 Larynx (E29-E38),11404,9697
+"E5 Trachea and bronchus (E39-E52, E67)",18974,16491
+E6 Lung and mediastinum (E53-E63),24348,22273
+E7 Non operations on lower respiratory tract (E85-E98),70149,59740
+F1 Lip (F01-F06),7967,8383
+F2 Tooth and gingiva (F08-F20),66523,80114
+F3 Tongue and palate (F22-F32),10345,9118
+F4 Tonsil and other parts of mouth (F34-F43),31403,34154
+F5 Salivary apparatus (F44-F58),4271,4427
+F6 Other Dental (F63),113,132
+G1 Oesophagus including hiatus hernia (G01-G25),21547,20544
+G2 Stomach pylorus and general upper gastrointestinal tract endoscopy (G26-G48),390403,438758
+G3 Duodenum (G49-G57),1306,974
+G4 Jejunum (G58-G67),4456,5221
+G5 Ileum (G68-G82),7373,6529
+H1 Appendix (H01-H03),23799,22041
+H2 Colon (H04-H32),490813,491946
+H3 Rectum (H33-H46),14017,15224
+H4 Anus and perianal region (H47-H71),53142,40309
+J1 Liver (J01-J17),13556,11986
+J2 Gall bladder (J18-J26),20962,52248
+J3 Bile duct (J27-J53),22748,26886
+J4 Pancreas (J54-J68),1965,1791
+J5 Spleen (J69-J72),673,470
+J6 Pancreas (J73-J77),4966,5773
+K1 Wall septum and chambers of heart (K01-K24),2498,2189
+K2 Valves of heart and adjacent structures (K25-K38),10633,6840
+K3 Coronary artery (K40-K51),18601,4601
+K4 Other parts of heart and pericardium (K52-K78),169872,83574
+L1 Great vessels and pulmonary artery (L01-L13),906,826
+L2 Aorta (L16-L28),6300,1784
+L3 Carotid cerebral and subclavian arteries (L29-L39),6619,5794
+L4 Abdominal branches of aorta (L41-L47),1143,977
+L5 Iliac and femoral arteries (L48-L63),15991,7028
+L6 Other arteries (L65-L72),8354,7344
+L7 Veins and other blood vessels (L73-L99),96836,108267
+"L8 Overflow arteries and veins (O01-O05, O15,O20)",1634,2489
+M1 Kidney (M01-M17),45158,33694
+M2 Ureter (M18-M33),36487,26046
+M3 Bladder (M34-M49),262645,148387
+M4 Outlet of bladder and prostate (M51-M71),87622,3775
+M5 Urethra and other parts of urinary tract (M72-M86),16458,5197
+N1 Scrotum and testis (N01-N13),28207,29
+N2 Spermatic cord and male perineum (N15-N24),11642,10
+N3 Penis and other male genital organs (N26-N35),35838,24
+P1 Vulva and female perineum (P01-P13),10,15533
+P2 Vagina (P14-P32),12,23802
+"Q1 Uterus (Q01-Q03, Q05, Q07-Q21, Q58)",159,193172
+Q2 Fallopian tube (Q22-Q41),50,29782
+Q3 Ovary and broad ligament (Q43-Q57),43,48348
+R1 Fetus and gravid uterus (R01-R13),2,8586
+R2 Induction and delivery (R14-R27),1,551172
+R3 Other obstetric (R28-R34),0,4037
+R4 Obstetric scans and studies (R36-R43),1,21127
+S1 Skin or subcutaneous tissue (S01-S63),257200,220011
+S2 Nail (S64-S70),9720,6601
+T1 Chest wall pleura and diaphragm (T01-T17),32422,21934
+"T2 Abdominal wall (T19-T31,T97-T99)",88068,29762
+T3 Peritoneum (T33-T48),37232,49539
+T4 Fascia ganglion and bursa (T50-T62),20536,16459
+T5 Tendon (T64-T74),24319,15483
+T6 Muscle (T76-T83),8686,5990
+T7 Lymphatic tissue (T85-T96),14599,15231
+U1 Diagnostic Imaging (U01-U21),790908,833152
+U2 Diagnostic tests (U22-U41),117081,144200
+U3 Rehabilitation (U50-U54),28851,32877
+"V1 Bones and joints of cranium, face and jaw (V01-V21)",12320,8248
+V2 Bones and joints of spine (V22-V69),31802,41107
+W1 Complex reconstruction of hand and foot (W01-W04),1721,2707
+W2 Bone (W05-W36),111112,119886
+W3 Joint (W37-W99),195311,255638
+"W4 Overflow other bones and joints (O06-O10, O17-O19, O21-O27, O29,O32, O35, O37-O40)",14427,12421
+X1 Operations covering multiple systems (X01-X27),16306,7429
+X2 Miscellaneous operations (X28-X69),767143,888960
+X3 Specified Drug therapy (X70-X98),381968,476251

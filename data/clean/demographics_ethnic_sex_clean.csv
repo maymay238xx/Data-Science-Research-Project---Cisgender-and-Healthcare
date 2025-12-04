@@ -1,0 +1,19 @@
+Ethnic_Code,Ethnic_Description,Total_FCE,Total_FAE,Male_FCE,Female_FCE
+A,British (White),14647984,11765955,6605131,7955166
+B,Irish (White),143887,110968,65525,77279
+C,Any other White background,963874,816817,391041,563634
+D,White and Black Caribbean (Mixed),70872,62743,25736,44619
+E,White and Black African (Mixed),38271,33925,14997,22887
+F,White and Asian (Mixed),58185,52137,24788,32815
+G,Any other Mixed background,126139,111164,54579,69979
+H,Indian (Asian or Asian British),468091,391883,196771,269774
+J,Pakistani (Asian or Asian British),434775,375562,170431,263738
+K,Bangladeshi (Asian or Asian British),134905,115996,55174,79244
+L,Any other Asian background,312781,264347,136983,174012
+M,Caribbean (Black or Black British),188463,148252,75295,111523
+N,African (Black or Black British),332586,285286,121754,207418
+P,Any other Black background,134575,110524,57617,75006
+R,Chinese (other ethnic group),56438,48384,22369,33671
+S,Any other ethnic group,466736,392160,209238,253247
+Z,Not stated,1880988,1604525,903197,954920
+99,Not known,991325,869500,478887,498693

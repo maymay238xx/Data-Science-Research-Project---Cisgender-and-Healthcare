@@ -49,15 +49,15 @@ https://www.gov.uk/government/statistics/patient-level-activity-and-costing-2021
 
 Used as needed to support or contextualise findings:
 
-Prescription Costs — NHS Scotland
+Prescription Costs — NHS Scotland: https://www.opendata.nhs.scot/dataset/prescriptions-in-the-community
 
-A&E Activity — NHS Scotland
+A&E Activity — NHS Scotland: https://www.opendata.nhs.scot/dataset/weekly-accident-and-emergency-activity-and-waiting-times
 
-GP Payments — NHS Scotland
+GP Payments — NHS Scotland: https://www.opendata.nhs.scot/dataset/nhsscotland-payments-to-general-practice/resource/db3455ae-913e-4110-8439-d6a49164f7d9
 
-Healthcare Expenditure — UK Health Accounts (ONS)
+Healthcare Expenditure — UK Health Accounts (ONS): https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthcaresystem/bulletins/ukhealthaccounts/2021
 
-Gender & Age breakdown — Acute Patient Activity & Costing
+Gender & Age breakdown — Acute Patient Activity & Costing: https://digital.nhs.uk/data-and-information/publications/statistical/acute-patient-level-activity-and-costing/2018-19/age-and-gender
 
 ## 4. Data Cleaning & Handling of anomalies
 

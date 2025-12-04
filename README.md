@@ -81,11 +81,70 @@ Cleaning steps included:
 .................
 
 ## 9. References
-................
+###  Who uses healthcare more – men or women?
+**Wang et al., 2013 – “Do men consult less than women?” (BMJ Open)** 
+https://bmjopen.bmj.com/content/3/8/e003320?
+- Used routinely collected UK GP data.
+- Found that men’s consultation rates were about 32% lower than women’s
+overall, even after adjusting for some health needs.
+- Supports: “Women use primary care services more; men under-consult / delay
+seeking care.”
 
-## 10. Contributors
+**Ballering et al., 2023 – “Sex and gender differences in primary care help-seeking behaviour”
+(Family Practice)** 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10193899
+-  Showed that biological sex (being female), more than gender identity/expression,
+is associated with higher help-seeking for physical symptoms.
 
-...................
+_Supports: the idea that sex itself is a strong predictor of using primary care more
+often._ 
+
+### Costs & economic side (who pays more / costs more?)
+NHS hospital costs by sex and age
+NHS Digital, “Acute patient level activity and costing 2018–19: Age and gender” 
+https://digital.nhs.uk/data-and-information/publications/statistical/acute-patient-level-activity-and-costing/2018-19/age-and-gender
+- Breaks down NHS A&E and inpatient costs by age and gender.
+Shows that:
+- Under 15: higher costs for males
+
+- Ages 15–39 and 80+: higher costs for females
+-  Overall, women account for a slightly greater share of admitted-patient costs,
+partly due to maternity-related care.
+
+_Supports: “Cost burden patterns differ by gender and across the life course.”_ 
+Out-of-pocket spending (personal expenses)
+
+**Deloitte Health Equity Institute / YouGov survey – “The women’s health spending gap in the
+UK”(2024)** 
+https://www.deloitte.com/uk/en/blogs/thoughts-from-the-centre/the-womens-health-spending-gap-in-the-uk.html
+
+- Survey of over 2,500 working adults in the UK.
+- Women spent about £100 more per year out of pocket than men (≈50% more).
+- Average spend: £305 for women vs £210 for men.
+**Women spent:**
+- 10% more on diagnostics/wearables
+- 25% more on general healthcare & private counselling
+- 250% more on fertility/menopause/menstrual health
+
+_Supports: “Women bear a higher personal financial burden for health than men.”_
+
+## 10. Contributors (_In no particular order_) 
+_Fola Kareem_
+
+_Heather Moorehouse_
+
+_May Agboola_
+
+_Sherelle Garwood_
+
+_Selena Ellis_
+
+_Rhea Strachan_
+
+_Katarzyna Jagiello_
+
+
+
 
 
 

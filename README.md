@@ -88,7 +88,7 @@ https://bmjopen.bmj.com/content/3/8/e003320?
 - Found that men’s consultation rates were about 32% lower than women’s
 overall, even after adjusting for some health needs.
 
-_Supports: “Women use primary care services more; men under-consult / delay
+_**Supports:** “Women use primary care services more; men under-consult / delay
 seeking care.”_
 
 **Ballering et al., 2023 – “Sex and gender differences in primary care help-seeking behaviour”
@@ -97,7 +97,7 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC10193899
 -  Showed that biological sex (being female), more than gender identity/expression,
 is associated with higher help-seeking for physical symptoms.
 
-_Supports: the idea that sex itself is a strong predictor of using primary care more
+_**Supports:** the idea that sex itself is a strong predictor of using primary care more
 often._ 
 
 ### Costs & economic side (who pays more / costs more?)
@@ -112,7 +112,7 @@ Shows that:
 -  Overall, women account for a slightly greater share of admitted-patient costs,
 partly due to maternity-related care.
 
-_Supports: “Cost burden patterns differ by gender and across the life course.”_ 
+_**Supports:** “Cost burden patterns differ by gender and across the life course.”_ 
 Out-of-pocket spending (personal expenses)
 
 **Deloitte Health Equity Institute / YouGov survey – “The women’s health spending gap in the
@@ -127,7 +127,7 @@ https://www.deloitte.com/uk/en/blogs/thoughts-from-the-centre/the-womens-health-
 - 25% more on general healthcare & private counselling
 - 250% more on fertility/menopause/menstrual health
 
-_Supports: “Women bear a higher personal financial burden for health than men.”_
+_**Supports:** “Women bear a higher personal financial burden for health than men.”_
 
 ## 10. Contributors (_In no particular order_) 
 _Fola Kareem_

@@ -87,8 +87,9 @@ https://bmjopen.bmj.com/content/3/8/e003320?
 - Used routinely collected UK GP data.
 - Found that men’s consultation rates were about 32% lower than women’s
 overall, even after adjusting for some health needs.
-- Supports: “Women use primary care services more; men under-consult / delay
-seeking care.”
+
+_Supports: “Women use primary care services more; men under-consult / delay
+seeking care.”_
 
 **Ballering et al., 2023 – “Sex and gender differences in primary care help-seeking behaviour”
 (Family Practice)** 

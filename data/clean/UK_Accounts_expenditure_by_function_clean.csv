@@ -1,0 +1,38 @@
+healthcare_function,all_providers,hospitals,residential_long-term_care_facilities,providers_of_ambulatory_healthcare,offices_of_general_medical_practitioners,dental_practices,providers_of_home_healthcare_services,other_ambulatory_providers_[note_6],providers_of_ancillary_services,providers_of_medical_goods,providers_of_preventive_care,providers_of_healthcare_system_administration_and_financing,government_health_administration_agencies,social_health_insurance_agencies,private_health_insurance_administration_agencies,other_administration_agencies,rest_of_economy,households_as_providers_of_home_healthcare,all_other_industries_as_secondary_providers_of_healthcare,rest_of_the_world,not_elsewhere_classified
+All functions,297994.0,130367.0,37616,73131.0,22849,12165,15758,22359.0,6038,27806,5589,4199,2349,0,1800,50,10412,4194,6218,426,2410
+Curative / rehabilitative care,176984.0,126789.0,113,48733.0,19914,7775,1709,19335.0,437,484,0,0,0,0,0,0,428,0,428,0,0
+Inpatient curative / rehabilitative inpatient care,74149.0,74036.0,113,0.0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Day curative / rehabilitative care,13580.0,13177.0,0,402.0,0,0,0,402.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outpatient curative / rehabilitative care,80727.0,39576.0,0,39834.0,18952,7745,0,13137.0,437,484,0,0,0,0,0,0,396,0,396,0,0
+Outpatient curative care,,38282.0,0,,18952,7745,0,,437,484,0,0,0,0,0,0,396,0,396,0,0
+General outpatient curative care,,5645.0,0,,18952,0,0,,437,0,0,0,0,0,0,0,98,0,98,0,0
+Dental outpatient curative care,,523.0,0,,0,7745,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+Specialised outpatient curative care,,26364.0,0,,0,0,0,,0,0,0,0,0,0,0,0,202,0,202,0,0
+Other outpatient curative care,,5750.0,0,,0,0,0,,0,484,0,0,0,0,0,0,96,0,96,0,0
+Outpatient rehabilitative care,,1293.0,0,,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0
+Home-based curative / rehabilitative care,8528.0,0.0,0,8497.0,962,30,1709,5796.0,0,0,0,0,0,0,0,0,32,0,32,0,0
+Home-based curative care,7257.0,0.0,0,7225.0,962,30,1709,4525.0,0,0,0,0,0,0,0,0,32,0,32,0,0
+Home-based rehabilitative care,1271.0,0.0,0,1271.0,0,0,0,1271.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Long-term care (health),57387.0,1324.0,37483,14386.0,197,0,14047,142.0,0,0,0,0,0,0,0,0,4194,4194,0,0,0
+Inpatient long-term care (health),38790.0,1307.0,37483,0.0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Day long-term care (health),,,0,0.0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Outpatient long-term care (health),,,0,198.0,197,0,0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Home-based long-term care (health),18382.0,0.0,0,14188.0,0,0,14047,140.0,0,0,0,0,0,0,0,0,4194,4194,0,0,0
+Ancillary services,6351.0,631.0,0,0.0,0,0,0,0.0,5601,0,0,0,0,0,0,0,119,0,119,0,0
+Medical goods,33584.0,0.0,0,1102.0,1102,0,0,0.0,0,26990,0,0,0,0,0,0,5492,0,5492,0,0
+Pharmaceuticals and other medical non-durable goods,28819.0,0.0,0,1102.0,1102,0,0,0.0,0,22837,0,0,0,0,0,0,4880,0,4880,0,0
+Prescribed medicines,17548.0,0.0,0,970.0,970,0,0,0.0,0,16579,0,0,0,0,0,0,0,0,0,0,0
+Over-the-counter medicines,8320.0,0.0,0,0.0,0,0,0,0.0,0,3530,0,0,0,0,0,0,4790,0,4790,0,0
+Other medical non-durable goods,2951.0,0.0,0,132.0,132,0,0,0.0,0,2729,0,0,0,0,0,0,90,0,90,0,0
+Therapeutic appliances and other medical goods,4765.0,0.0,0,0.0,0,0,0,0.0,0,4153,0,0,0,0,0,0,612,0,612,0,0
+Preventive care,16576.0,1622.0,21,8910.0,1637,4390,1,2882.0,0,331,5512,0,0,0,0,0,180,0,180,0,0
+"Information, education and counselling programmes",3329.0,0.0,0,1381.0,360,0,0,1021.0,0,0,1948,0,0,0,0,0,0,0,0,0,0
+Immunisation programmes,2553.0,126.0,0,1246.0,1161,0,0,86.0,0,331,846,0,0,0,0,0,4,0,4,0,0
+Early disease detection programmes,1152.0,770.0,21,111.0,75,0,1,35.0,0,0,248,0,0,0,0,0,2,0,2,0,0
+Healthy condition monitoring programmes,7608.0,726.0,0,6171.0,41,4390,0,1740.0,0,0,537,0,0,0,0,0,174,0,174,0,0
+Epidemiological surveillance and risk and disease control programmes,1857.0,0.0,0,0.0,0,0,0,0.0,0,0,1856,0,0,0,0,0,0,0,0,0,0
+Preparing for disaster and emergency response programmes,77.0,0.0,0,0.0,0,0,0,0.0,0,0,77,0,0,0,0,0,0,0,0,0,0
+"Governance, and health system and financing administration",4298.0,0.0,0,0.0,0,0,0,0.0,0,0,78,4199,2349,0,1800,50,0,0,0,21,0
+Governance and health system administration,2498.0,0.0,0,0.0,0,0,0,0.0,0,0,78,2399,2349,0,0,50,0,0,0,21,0
+Administration of health system financing,1800.0,0.0,0,0.0,0,0,0,0.0,0,0,0,1800,0,0,1800,0,0,0,0,0,0
+Not elsewhere classified,2816.0,0.0,0,0.0,0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,405,2410

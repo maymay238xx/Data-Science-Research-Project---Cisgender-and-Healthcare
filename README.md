@@ -75,11 +75,14 @@ Cleaning steps included:
 .................
 
 ## 7. Challenges
-...................
+
 
 ## 8. Conclusion
-.................
+Overall, our findings indicate that women contribute a disproportionately higher share of NHS healthcare costs compared to men. This appears largely driven by gender-specific health needs, particularly those associated with reproductive health, maternity, and age-related conditions such as menopause. These results are consistent with the diagnostic data, which shows significantly higher treatment volumes for gynaecological and maternity-related issues among women.
 
+In contrast, men tend to incur higher costs in diagnostic categories typically associated with male-dominant health risks, such as cardiovascular diseases. Furthermore, our analysis of diagnosis frequency by gender reveals that women seek medical support more often than men, leading to a higher number of recorded diagnoses. This aligns with existing literature suggesting that women are generally more proactive in seeking healthcare intervention, while men may delay medical consultation.
+
+Taken together, these findings highlight notable gender differences in both healthcare utilisation and the resulting cost implications across the NHS.
 ## 9. References
 ###  Who uses healthcare more – men or women?
 **Wang et al., 2013 – “Do men consult less than women?” (BMJ Open)** 

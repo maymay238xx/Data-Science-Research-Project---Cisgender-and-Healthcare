@@ -68,7 +68,7 @@ Cleaning steps included:
    
 ## 5.Exploratory Analysis & Visualisation
 
-................
+Click [here](notebooks/Images) for the link to view our visual analysis
 
 ## 6. Key findings
 

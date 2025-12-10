@@ -76,28 +76,29 @@ Click [here](notebooks/Images) for the link to view our visuals produced during 
 
 ## 7. Challenges
 ### **Challenges Encountered During Data Collection & Preparation**
+**Census Health Dataset (ONS – General Health by Sex)**
 
-**Census Health Dataset (ONS – General Health by Sex)** 
+This dataset presented several formatting and structural issues:
 
-The Census dataset presented several formatting and structure challenges:
-- The dataset did not begin at row one, requiring manual row-skipping to extract proper headers.
-Multiple supplementary sheets (notes, definitions, contents) made it unclear which table to analyse.
-- Column naming was inconsistent between sheets and required standardisation.
-- Some metadata (e.g. confidence intervals and notes) was included within the data tables, which required filtering.
-- The dataset included combined (“Persons”) values which had to be removed to isolate male vs female comparisons.
-- Decisions had to be made about whether to include further breakdowns (age, region, deprivation), which were intentionally excluded to keep scope manageable.
+- Data did not start at row one, requiring manual adjustment for correct headers.
+- Multiple supplementary sheets made the primary analysis table unclear.
+- Consistent column naming required standardisation.
+- Metadata (e.g., confidence intervals, notes) appeared within data and needed filtering.
+- Combined “Persons” values were removed to focus on male vs. female comparisons.
+- Additional breakdowns (age, region, deprivation) were excluded to maintain a manageable scope.
+
 
  **Fingertips API Dataset (Emergency Hospital Admissions)**
 
 Working with the API presented several technical and structural challenges:
-- Direct URL-based API calls frequently return server errors.
-- Documentation did not always match the behaviour of the live API.
-- Indicator categories were not labelled in an intuitive way, requiring trial-and-error searching.
-- Metadata structure required exploration using ``dir()`` , ``help()``, and test queries
-- Expected categories such as “Healthcare” did not exist in data fields.
-- The indicator discovery process involved manual filtering by name keywords.
-- Time was not stored as a traditional year and required decoding from sortable values.
-- National values were duplicated across geographic levels, requiring de-duplication.
+- Direct URL queries often returned server errors.
+- Documentation did not consistently match live API behaviour.
+- Poorly labelled indicator categories required trial-and-error exploration.
+- Metadata structure needed investigation using dir(), help(), and test queries.
+- Expected fields (e.g., “Healthcare”) were not present.
+- Indicator discovery relied on manual keyword filtering.
+- Time values were encoded rather than conventional years and needed decoding.
+- National data was duplicated across geographic levels, requiring de-duplication.
 
 
 

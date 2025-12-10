@@ -75,6 +75,30 @@ Click [here](notebooks/Images) for the link to view our visual analysis
 .................
 
 ## 7. Challenges
+### **Challenges Encountered During Data Collection & Preparation**
+
+**Census Health Dataset (ONS – General Health by Sex)** 
+
+The Census dataset presented several formatting and structure challenges:
+- The dataset did not begin at row one, requiring manual row-skipping to extract proper headers.
+Multiple supplementary sheets (notes, definitions, contents) made it unclear which table to analyse.
+- Column naming was inconsistent between sheets and required standardisation.
+- Some metadata (e.g. confidence intervals and notes) was included within the data tables, which required filtering.
+- The dataset included combined (“Persons”) values which had to be removed to isolate male vs female comparisons.
+- Decisions had to be made about whether to include further breakdowns (age, region, deprivation), which were intentionally excluded to keep scope manageable.
+
+ **Fingertips API Dataset (Emergency Hospital Admissions)**
+
+Working with the API presented several technical and structural challenges:
+- Direct URL-based API calls frequently return server errors.
+- Documentation did not always match the behaviour of the live API.
+- Indicator categories were not labelled in an intuitive way, requiring trial-and-error searching.
+- Metadata structure required exploration using dir(), help(), and test queries
+- Expected categories such as “Healthcare” did not exist in data fields.
+- The indicator discovery process involved manual filtering by name keywords.
+- Time was not stored as a traditional year and required decoding from sortable values.
+- National values were duplicated across geographic levels, requiring de-duplication.
+
 
 
 ## 8. Conclusion

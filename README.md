@@ -93,7 +93,7 @@ Working with the API presented several technical and structural challenges:
 - Direct URL-based API calls frequently return server errors.
 - Documentation did not always match the behaviour of the live API.
 - Indicator categories were not labelled in an intuitive way, requiring trial-and-error searching.
-- Metadata structure required exploration using dir(), help(), and test queries
+- Metadata structure required exploration using ``dir()`` , ``help()``, and test queries
 - Expected categories such as “Healthcare” did not exist in data fields.
 - The indicator discovery process involved manual filtering by name keywords.
 - Time was not stored as a traditional year and required decoding from sortable values.

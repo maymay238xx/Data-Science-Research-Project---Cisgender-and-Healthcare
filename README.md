@@ -19,9 +19,9 @@ Understanding these patterns supports better NHS resource planning and service d
 
 ## 2. Research Questions
 
-Do cisgender men or women incur higher overall NHS healthcare costs?
-
-Which conditions, services or procedure categories contribute most to the difference?
+1. Do cisgender men or women incur higher overall NHS Healthcare costs?
+2. Which conditions, services, or age bands contribute most to these differences?
+3. How do utilisation patterns differ (e.g. preventative vs emergency care)?
 
 
 ## 3. Datasets Used
@@ -69,6 +69,14 @@ Cleaning steps included:
 ## 5.Exploratory Analysis & Visualisation
 
 Click [here](notebooks/Images) for the link to view our visuals produced during analysis
+
+### Libraries Used
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+
 
 ## 6. Key findings
 

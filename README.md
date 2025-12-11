@@ -70,13 +70,17 @@ Cleaning steps included:
 
 Click [here](notebooks/Images) for the link to view our visuals produced during analysis
 
-### Libraries Used
+### Development and Coding tools
 - Python
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
+- Jupyter Notebooks
 
+### Libraries Used
+The following libraries and modules require installation
+- Pandas `!pip install pandas`
+- Numpy `!pip install numpy`
+- Matplotlib `!pip install matplotlib`
+- Seaborn `!pip install seaborn`
+- Fingertips `!pip install fingertips_py`
 
 ## 6. Key findings
 

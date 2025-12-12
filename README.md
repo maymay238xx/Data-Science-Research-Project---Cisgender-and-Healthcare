@@ -1,11 +1,17 @@
-** DRAFT **
+
 # Is healthcare more expensive for men vs women?
 
 ## 1. Project Overview
 
 Cisgender men and women interact with the NHS in different ways due to biological, social and behavioural factors. These differences drive distinct healthcare needs, utilisation patterns and overall costs. This project investigates whether men or women incur higher NHS healthcare costs, and explores which conditions and age groups drive these differences.
 
-Using NHS and ONS datasets, we have built a data-driven narrative supported by clear visualisations and analysis in Jupyter Notebook.
+This project presents a data-driven comparison of sex-based healthcare costs in the UK, combining multiple NHS and ONS datasets. Using Python and Jupyter Notebook, we explored how healthcare usage and costs differ between men and women, and which conditions and services drive these differences.
+
+
+> **Important note:**  
+> Due to data availability, this project focuses solely on male and female categories as recorded in NHS and ONS datasets.  
+> Trans and non-binary identities are not represented, and this limitation is explicitly acknowledged.
+
 
 ### Why this problem matters? 
 
@@ -59,11 +65,21 @@ Healthcare Expenditure — UK Health Accounts (ONS): https://www.ons.gov.uk/peop
 
 Gender & Age breakdown — Acute Patient Activity & Costing: https://digital.nhs.uk/data-and-information/publications/statistical/acute-patient-level-activity-and-costing/2018-19/age-and-gender
 
+### API data
+
+NHS Fingertips API
+
 ## 4. Data Cleaning & Handling of anomalies
 
 Cleaning steps included:
 
-...............
+- Removed structural rows that did not represent real observations (e.g. subheadings, section headers, subtotals, and grand total rows) to avoid double-counting.
+- Standardised column names, data types, and formats across datasets.
+- Converted numeric fields from strings to appropriate numeric types, handling commas, missing values, and formatting inconsistencies.
+- Addressed embedded metadata and non-data rows commonly present in public NHS and ONS spreadsheets.
+- Created datasets ready for analysis and focused on comparable units.
+
+
 
    
 ## 5.Exploratory Analysis & Visualisation

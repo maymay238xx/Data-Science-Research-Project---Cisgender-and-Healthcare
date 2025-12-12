@@ -172,7 +172,7 @@ _**Supports:** “Women bear a higher personal financial burden for health than 
 ## 10. Contributors (_In no particular order_) 
 _Fola Kareem_
 
-_Heather Moorehouse_
+_Heather Moorhouse_
 
 _May Agboola_
 

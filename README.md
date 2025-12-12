@@ -84,6 +84,13 @@ Cleaning steps included:
    
 ## 5.Exploratory Analysis & Visualisation
 
+Visualisations were created using Matplotlib and Seaborn, focusing on clarity and narrative insight. These include:
+
+- Total estimated healthcare costs by sex
+- Diagnosis counts by sex
+- Procedure volumes by sex
+- Comparisons across service categories
+
 Click [here](notebooks/Images) for the link to view our visuals produced during analysis
 
 ### Development and Coding tools
@@ -100,20 +107,25 @@ The following libraries and modules require installation
 
 ## 6. Key findings
 
-.................
+The evidence appeared to have consistently indicated that:
+- Women utilised hospital services more than men
+- Women received higher diagnosis counts in most categories
+- Estimated hospital expenditure calculated using sex proportions suggested women incur greater total cost. Population size alone did not explain the difference
+- Overall healthcare costs are rising, which may increase the cost disparity
 
 ## 7. Challenges
 ### **Challenges Encountered During Data Collection & Preparation**
-**Census Health Dataset (ONS – General Health by Sex)**
 
-This dataset presented several formatting and structural issues:
+The datasets presented several formatting and structural issues:
 
-- Data did not start at row one, requiring manual adjustment for correct headers.
-- Multiple supplementary sheets made the primary analysis table unclear.
-- Consistent column naming required standardisation.
-- Metadata (e.g., confidence intervals, notes) appeared within data and needed filtering.
-- Combined “Persons” values were removed to focus on male vs. female comparisons.
-- Additional breakdowns (age, region, deprivation) were excluded to maintain a manageable scope.
+- NHS dataset contained non-data rows
+- Multiple sections included subtotal rows (not labelled “Total”), which inflated male/female counts when summed.
+- The datasets often included a grand total row which needed to be isolated.
+- Mixed formatting in numeric fields. Some columns like included: commas, decimals stored as strings, NaN values.
+- Structural inconsistencies in Excel formatting
+- Missing values and inconsistencies
+- Datasets covering the same themes from different years had different formatting in headers and columns, as well as not including data from all the same healthcare areas.
+- Data was categorical and already aggregated. 
 
 
  **Fingertips API Dataset (Emergency Hospital Admissions)**

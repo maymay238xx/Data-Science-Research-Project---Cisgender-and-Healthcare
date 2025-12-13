@@ -34,40 +34,38 @@ Understanding these patterns supports better NHS resource planning and service d
 
 Our analysis draws on a combination of NHS and ONS datasets, supplemented with additional secondary sources.
 
-### Primary datasets
+### <ins>Primary datasets</ins>
 
-Hospital Admitted Patient Care Activity 2023–24
+*Hospital Admitted Patient Care Activity 2023–24*
 Source: NHS Digital
 Used for: FCE counts by sex, diagnosis & procedure groups
 https://digital.nhs.uk/data-and-information/publications/statistical/hospital-admitted-patient-care-activity/2023-24
 
-General Health by Age, Sex and Deprivation (Census 2021)
+*General Health by Age, Sex and Deprivation (Census 2021)*
 Source: ONS
 Used for: SES & gender interplay
 https://www.ons.gov.uk/.../generalhealthbyagesexanddeprivationenglandandwales/census2021
 
-Patient Level Activity & Costing (2021–22)
+*Patient Level Activity & Costing (2021–22)*
 Source: NHS England
 Used for: cost comparisons across services
 https://www.gov.uk/government/statistics/patient-level-activity-and-costing-2021-22
 
-### Secondary datasets
+### <ins>Secondary datasets</ins>
 
-Used as needed to support or contextualise findings:
+*UK health accounts*
+https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthcaresystem/datasets/healthaccountsreferencetables
 
-Prescription Costs — NHS Scotland: https://www.opendata.nhs.scot/dataset/prescriptions-in-the-community
 
-A&E Activity — NHS Scotland: https://www.opendata.nhs.scot/dataset/weekly-accident-and-emergency-activity-and-waiting-times
+*Acute Patient Level Activity and Costing, 2019-20* 
 
-GP Payments — NHS Scotland: https://www.opendata.nhs.scot/dataset/nhsscotland-payments-to-general-practice/resource/db3455ae-913e-4110-8439-d6a49164f7d9
-
-Healthcare Expenditure — UK Health Accounts (ONS): https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthcaresystem/bulletins/ukhealthaccounts/2021
-
-Gender & Age breakdown — Acute Patient Activity & Costing: https://digital.nhs.uk/data-and-information/publications/statistical/acute-patient-level-activity-and-costing/2018-19/age-and-gender
+https://digital.nhs.uk/data-and-information/publications/statistical/acute-patient-level-activity-and-costing/2019-20
 
 ### API data
 
-NHS Fingertips API
+*NHS Fingertips API*
+
+https://fingertips.phe.org.uk/profile/guidance/supporting-information/api
 
 ## 4. Data Cleaning & Handling of anomalies
 
@@ -156,8 +154,6 @@ https://bmjopen.bmj.com/content/3/8/e003320?
 - Found that men’s consultation rates were about 32% lower than women’s
 overall, even after adjusting for some health needs.
 
-_**Supports:** “Women use primary care services more; men under-consult / delay
-seeking care.”_
 
 **Ballering et al., 2023 – “Sex and gender differences in primary care help-seeking behaviour”
 (Family Practice)** 
@@ -165,8 +161,7 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC10193899
 -  Showed that biological sex (being female), more than gender identity/expression,
 is associated with higher help-seeking for physical symptoms.
 
-_**Supports:** the idea that sex itself is a strong predictor of using primary care more
-often._ 
+
 
 ### Costs & economic side (who pays more / costs more?)
 NHS hospital costs by sex and age
@@ -180,22 +175,8 @@ Shows that:
 -  Overall, women account for a slightly greater share of admitted-patient costs,
 partly due to maternity-related care.
 
-_**Supports:** “Cost burden patterns differ by gender and across the life course.”_ 
-Out-of-pocket spending (personal expenses)
 
-**Deloitte Health Equity Institute / YouGov survey – “The women’s health spending gap in the
-UK”(2024)** 
-https://www.deloitte.com/uk/en/blogs/thoughts-from-the-centre/the-womens-health-spending-gap-in-the-uk.html
 
-- Survey of over 2,500 working adults in the UK.
-- Women spent about £100 more per year out of pocket than men (≈50% more).
-- Average spend: £305 for women vs £210 for men.
-**Women spent:**
-- 10% more on diagnostics/wearables
-- 25% more on general healthcare & private counselling
-- 250% more on fertility/menopause/menstrual health
-
-_**Supports:** “Women bear a higher personal financial burden for health than men.”_
 
 ## 10. Contributors (_In no particular order_) 
 _Fola Kareem_

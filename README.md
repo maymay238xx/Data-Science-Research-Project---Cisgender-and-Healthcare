@@ -8,12 +8,13 @@ Follow the steps below to set up your environment, load the data, and run the an
 
 1. Clone the repository
 2. Install required libraries
+   
    The project uses:
    - pandas
    - numpy
    - matplotlib
    - seaborn
-3. Run the notebooks
+4. Run the notebooks
 
 ## 📓 Project Notebooks
 

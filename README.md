@@ -7,8 +7,8 @@ This project is fully reproducible using Python, Jupyter/Colab, and the datasets
 Follow the steps below to set up your environment, load the data, and run the analysis notebooks.
 
 1. Clone the repository
-2. Install required libraries
-   
+2. Install required libraries.
+
    The project uses:
    - pandas
    - numpy

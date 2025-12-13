@@ -150,7 +150,7 @@ The datasets presented several formatting and structural issues:
 - Data was categorical and already aggregated. 
 
 
- **Fingertips API Dataset (Emergency Hospital Admissions)**
+ ### **Fingertips API Dataset (Emergency Hospital Admissions)**
 
 Working with the API presented several technical and structural challenges:
 - Direct URL queries often returned server errors.

@@ -192,12 +192,6 @@ NHS hospital costs by sex and age
 NHS Digital, “Acute patient level activity and costing 2018–19: Age and gender” 
 https://digital.nhs.uk/data-and-information/publications/statistical/acute-patient-level-activity-and-costing/2018-19/age-and-gender
 - Breaks down NHS A&E and inpatient costs by age and gender.
-Shows that:
-- Under 15: higher costs for males
-
-- Ages 15–39 and 80+: higher costs for females
--  Overall, women account for a slightly greater share of admitted-patient costs,
-partly due to maternity-related care.
 
 
 

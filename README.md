@@ -1,6 +1,29 @@
 
 # Is healthcare more expensive for men vs women?
 
+## How To Run This Project
+
+This project is fully reproducible using Python, Jupyter/Colab, and the datasets stored in this repository.
+Follow the steps below to set up your environment, load the data, and run the analysis notebooks.
+
+1. Clone the repository
+2. Install required libraries
+   The project uses:
+   - pandas
+   - numpy
+   - matplotlib
+   - seaborn
+3. Run the notebooks
+
+## 📓 Project Notebooks
+
+| Notebook | Purpose |
+|---------|---------|
+| **01-cleaning-reprocessing-notebook.ipynb** | Cleans raw NHS/ONS datasets and saves outputs into the `data/clean/` directory. |
+| **02-fingertips-api-notebook.ipynb** | Retrieves, filters and processes API data (Fingertips API). |
+| **03-analysis-visualisation-notebook.ipynb** | Runs the final analysis, merges datasets, and generates all visualisations used in the report and presentation. |
+
+
 ## 1. Project Overview
 
 Cisgender men and women interact with the NHS in different ways due to biological, social and behavioural factors. These differences drive distinct healthcare needs, utilisation patterns and overall costs. This project investigates whether men or women incur higher NHS healthcare costs, and explores which conditions and age groups drive these differences.

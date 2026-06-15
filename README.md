@@ -8,7 +8,7 @@ A data-driven analysis of sex-based NHS healthcare costs in England, combining m
 
 - All datasets are **real, publicly available NHS and ONS data** — no mock data was used.
 - **_Raw source files arrived with embedded metadata rows, merged cell headers, subtotals, and mixed-type numeric fields; a significant portion of this project was engineering those into analysis-ready datasets before any insight could be extracted._**
-- This project demonstrates: **multi-source ETL**, **raw Excel parsing** with `openpyxl`, **structural data repair** (stripping non-data rows, reconstructing offset headers, handling merged cells), **wide-to-long reshaping** with `pd.melt`, **ICD-10 code categorisation**, **REST API integration** via the NHS Fingertips API, and **data visualisation** with `matplotlib` and `seaborn`.
+- This project demonstrates: **multi-source ETL**, **raw Excel parsing** with `openpyxl`, **structural data repair** (stripping non-data rows, reconstructing offset headers, handling merged cells), **wide-to-long reshaping** with `pd.melt`, **ICD-10 code categorisation**, **REST API integration** via the **NHS Fingertips API, and **data visualisation** with `matplotlib` and `seaborn`.
 
 ---
 
@@ -53,7 +53,7 @@ Cisgender men and women interact with the NHS in different ways due to biologica
 
 ### API Data 📊
 
-- NHS Fingertips API — emergency hospital admissions by sex and geography
+- **NHS Fingertips API** — emergency hospital admissions by sex and geography
 
 ---
 

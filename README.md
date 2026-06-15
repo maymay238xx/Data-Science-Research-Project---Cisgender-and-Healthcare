@@ -77,18 +77,18 @@ Each source arrived in a different state of messiness. Key engineering work incl
 
 The evidence consistently indicated that:
 
-- Women utilised hospital services more than men
-- Women received higher diagnosis counts in most categories
-- Estimated hospital expenditure (calculated using sex proportions) suggested women incur greater total cost — population size alone did not explain the difference
-- Overall healthcare costs are rising, which may increase the cost disparity over time
+- **_Women utilised hospital services more than men_**
+- **_Women received higher diagnosis counts in most categories_**
+- Estimated hospital expenditure (calculated using sex proportions) suggested **_women incur greater total cost_** — _population size alone did not explain the differences_
+- **_Overall_** _healthcare costs are rising_, which **may increase the cost disparity over time**
 
-Women's higher utilisation appears largely driven by reproductive health, maternity, and age-related conditions. Men, by contrast, incur higher relative costs in categories associated with cardiovascular disease. Women also sought medical support more frequently than men, resulting in a higher number of recorded diagnoses — consistent with existing literature on gender differences in help-seeking behaviour.
+**_Women's higher utilisation appears largely driven by reproductive health, maternity, and age-related conditions_**. Men, by contrast, incur higher relative costs in categories associated with cardiovascular disease. Women also sought medical support more frequently than men, resulting in a higher number of recorded diagnoses — consistent with existing literature on gender differences in help-seeking behaviour.
 
 ---
 
 ## Visualisations 📊
 
-Charts were produced using Matplotlib and Seaborn, including:
+Charts were produced using Matplotlib and Seaborn in JupyterNotebook including:
 
 - Total estimated healthcare costs by sex
 - Diagnosis counts and procedure volumes by sex

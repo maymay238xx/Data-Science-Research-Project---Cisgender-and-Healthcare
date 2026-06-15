@@ -61,15 +61,15 @@ Cisgender men and women interact with the NHS in different ways due to biologica
 
 Each source arrived in a different state of messiness. Key engineering work included:
 
-- Identifying and skipping non-data rows embedded in NHS Excel files — section headers, subheadings, subtotal rows, and grand totals all had to be stripped without losing real records
-- Manually reconstructing column headers from merged cells and offset header rows (true headers living at row index 8 or 9 rather than row 0)
-- Standardising column names across all datasets to consistent `snake_case`
-- Converting numeric fields stored as comma-formatted strings or mixed types using `pd.to_numeric` with `errors='coerce'`
-- Replacing embedded metadata tokens (e.g. `[x]`, `[note_10]`) with `NaN` for safe downstream handling
-- Reshaping wide-format NHS tables into tidy long format using `pd.melt`
-- Mapping ICD-10 diagnosis codes to standardised clinical categories via a manually constructed lookup dictionary, handling the `D` code range ambiguity (which spans two distinct disease groups depending on the second character)
-- Decoding non-standard sortable time values from the Fingertips API into calendar years
-- De-duplicating national-level records repeated across geographic levels in the API response
+- **Identifying and skipping non-data rows embedded** in NHS Excel files — section headers, subheadings, subtotal rows, and grand totals all had to be stripped without losing real records
+- **Manually reconstructing** column headers from merged cells and offset header rows (true headers living at row index 8 or 9 rather than row 0)
+- **Standardising** column names across all datasets to consistent `snake_case`
+- **Converting** numeric fields stored as comma-formatted strings or mixed types using `pd.to_numeric` with `errors='coerce'`
+- **Replacing** embedded metadata tokens (e.g. `[x]`, `[note_10]`) with `NaN` for safe downstream handling
+- **Reshaping** wide-format NHS tables into tidy long format using `pd.melt`
+- **Mapping** ICD-10 diagnosis codes to standardised clinical categories via a manually constructed lookup dictionary, handling the `D` code range ambiguity (which spans two distinct disease groups depending on the second character)
+- **Decoding** non-standard sortable time values from the Fingertips API into calendar years
+- **De-duplicating national-level records** repeated across geographic levels in the API response
 
 ---
 
